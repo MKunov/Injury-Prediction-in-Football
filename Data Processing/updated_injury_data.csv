@@ -1,0 +1,681 @@
+Injury_Date_New,Name,Id,Team,Injury Date,Injury,Injury Duration,Unnamed: 7,New_Injury_Duration
+2015-08-22,Jack Grealish,,Aston Villa,26-Aug-15,Ankle Sprain,18,Grealish,22
+2015-08-22,Adama Traoré Diarra,11333,Aston Villa,26-Aug-15,Ankle Injury,24,Traoré,28
+2015-08-29,Idrissa Gana Gueye,,Aston Villa,30-Aug-15,Hamstring Injury,20,Gueye,21
+2015-09-01,Tiago Abiola Delfim Almeida Ilori,,Aston Villa - no valid matches with player participation,01-Sep-15,Lack of Match Fitness,94,T Ilori,94
+2015-09-19,Gabriel Imuetinyan Agbonlahor,,Aston Villa,22-Sep-15,Calf Injury,32,Agbonlahor,35
+2015-09-23,Ciaran Clark,,Aston Villa - no valid matches with player participation,23-Sep-15,Thigh Injury,31,Clark,31
+2015-09-26,Adama Traoré Diarra,11333,Aston Villa,27-Sep-15,Ankle Injury,19,Traoré,20
+2015-10-24,Micah Richards,,Aston Villa,25-Oct-15,Knock,8,Richards,9
+2015-11-02,Gabriel Imuetinyan Agbonlahor,,Aston Villa,02-Nov-15,Calf Injury,32,Agbonlahor,32
+2015-11-03,José Ángel Crespo Rincón,,Aston Villa - no valid matches with player participation,03-Nov-15,Knock,40,Crespo,40
+2015-11-02,Ashley Westwood,3583,Aston Villa,02-Nov-15,Head Injury,18,Westwood,18
+2015-11-08,Jordan Amavi,,Aston Villa,13-Nov-15,knee injury,185,Amavi,190
+2015-11-08,Rudy Gestede,,Aston Villa,13-Nov-15,Knee Injury,7,Gestede,12
+2015-11-28,Micah Richards,,Aston Villa,29-Nov-15,Knee Injury,27,Richards,28
+2015-12-05,Gabriel Imuetinyan Agbonlahor,,Aston Villa,06-Dec-15,Back Injury,54,Agbonlahor,55
+2015-12-05,Carlos Alberto Sánchez Moreno,5685,Aston Villa,05-Dec-15,Head Injury,7,Sánchez,7
+2015-12-26,Carlos Alberto Sánchez Moreno,5685,Aston Villa,26-Dec-15,Hamsring Injury,21,Sánchez,21
+2016-01-02,Jack Grealish,,Aston Villa,02-Jan-16,Illness,14,Grealish,14
+2016-01-02,Alan Hutton,,Aston Villa,02-Jan-16,Hamstring Injury,42,Hutton,42
+2016-01-02,Adama Traoré Diarra,11333,Aston Villa,02-Jan-16,Foot Injury,91,Traoré,91
+2016-01-16,Leandro Bacuna,,Aston Villa,17-Jan-16,Hamsring Injury,5,Bacuna,6
+2016-01-20,Kieran Richardson,,Aston Villa - no valid matches with player participation,20-Jan-16,Calf Injury,12,Richardson,12
+2016-01-19,Carlos Alberto Sánchez Moreno,5685,Aston Villa - no valid matches with player participation,19-Jan-16,Hamstring Injury,60,Sánchez,60
+2016-01-23,Rudy Gestede,,Aston Villa,23-Jan-16,Hamstring Injury,34,Gestede,34
+2016-01-23,Libor Kozák,,Aston Villa,23-Jan-16,Ankle Injury,70,Kozák,70
+2016-02-14,Gabriel Imuetinyan Agbonlahor,,Aston Villa,14-Feb-16,Knock,12,Agbonlahor,12
+2016-03-05,Gabriel Imuetinyan Agbonlahor,,Aston Villa,05-Mar-16,Thigh Injury,14,Agbonlahor,14
+2016-03-05,Micah Richards,,Aston Villa,06-Mar-16,Groin Injury,26,Richards,27
+2016-03-19,Gabriel Imuetinyan Agbonlahor,,Aston Villa,20-Mar-16,Illness,27,Agbonlahor,28
+2016-04-16,Ciaran Clark,,Aston Villa,17-Apr-16,Knock,12,Clark,13
+2016-04-16,Kieran Richardson,,Aston Villa,16-Apr-16,Calf Injury,29,Richardson,29
+2016-04-30,Rudy Gestede,,Aston Villa,01-May-16,Groin Injury,13,Gestede,14
+2016-05-01,Jordan Veretout,,Aston Villa - no valid matches with player participation,01-May-16,Pelvic Injury,14,Veretout,14
+2015-08-29,Laurent Koscielny,,Arsenal,23-Aug-15,back injury,6,Koscielny,0
+2015-08-23,Per Mertesacker,,Arsenal - no valid matches with player participation,23-Aug-15,illness,22,Mertesacker,22
+2015-09-15,Per Mertesacker,,Arsenal - no valid matches with player participation,15-Sep-15,Knock (involved in minor car crash),7,Mertesacker,7
+2015-09-19,Francis Joseph Coquelin,,Arsenal,25-Sep-15,knee injury,3,Coquelin,9
+2015-09-26,Mikel Arteta Amatriain,,Arsenal,27-Sep-15,Knock,19,Arteta,20
+2015-09-26,Mathieu Flamini,,Arsenal,26-Sep-15,Hamstring Injury,21,Flamini,21
+2015-09-26,Laurent Koscielny,,Arsenal,29-Sep-15,Hamstring Injury,17,Koscielny,20
+2015-10-17,Mikel Arteta Amatriain,,Arsenal,18-Oct-15,Ankle Injury,20,Arteta,21
+2015-10-16,G Paulista,,Arsenal - no valid matches with player participation,16-Oct-15,illness,2,G Paulista,2
+2015-10-16,David Ospina Ramírez,4276,Arsenal - no valid matches with player participation,16-Oct-15,Shoulder Injury,22,Ospina,22
+2015-10-17,Aaron Ramsey,,Arsenal,21-Oct-15,hamstring injury,33,Ramsey,37
+2015-10-24,Alex Oxlade-Chamberlain,,Arsenal,27-Oct-15,Hamstring Injury,32,O Chamberlain,35
+2015-10-27,Theo Walcott,,Arsenal - no valid matches with player participation,27-Oct-15,Calf Injury,38,Walcott,38
+2015-10-31,Héctor Bellerín Moruno,,Arsenal,01-Nov-15,groin injury,19,Bellerín,20
+2015-11-21,Mikel Arteta Amatriain,,Arsenal,21-Nov-15,Calf Strain,48,Arteta,48
+2015-11-21,Francis Joseph Coquelin,,Arsenal,21-Nov-15,Knee Injury,68,Coquelin,68
+2015-12-05,Kieran Gibbs,,Arsenal,28-Nov-15,calf injury,6,Gibbs,-1
+2015-12-05,Laurent Koscielny,,Arsenal,29-Nov-15,Hip Injury,5,Koscielny,-1
+2015-11-29,Santiago Cazorla González,,Arsenal,30-Nov-15,Knee Injury,145,S Cazorla,146
+2015-11-29,Alexis Alejandro Sánchez Sánchez,,Arsenal,30-Nov-15,Hamstring Injury,54,Sanchez,55
+2016-01-08,David Ospina Ramírez,4276,Arsenal - no valid matches with player participation,08-Jan-16,Groin Injury,8,Ospina,8
+2016-01-13,Mesut Özil,,Arsenal,16-Jan-16,foot injury,2,Özil,5
+2016-02-13,G Paulista,,Arsenal - no valid matches with player participation,13-Feb-16,hamstring injury,14,G Paulista,14
+2016-03-05,Aaron Ramsey,,Arsenal,08-Mar-16,Thigh Injury,32,Ramsey,35
+2016-02-28,Laurent Koscielny,,Arsenal,29-Feb-16,Calf Injury,15,Koscielny,16
+2016-03-02,Petr Čech,,Arsenal,03-Mar-16,Calf Injury,29,Čech,30
+2016-04-30,Mesut Özil,,Arsenal,01-May-16,Hip Injury,13,Özil,14
+2016-04-30,Per Mertesacker,,Arsenal,30-Apr-16,Hamstring Injury,15,Mertesacker,15
+2016-05-08,Daniel Nii Tackie Mensah Welbeck,3569,Arsenal,08-May-16,Knee Injury,238,Welbeck,238
+2015-08-07,Shaun MacDonald,29382,AFC Bournemouth - no valid matches with player participation,07-Aug-15,Toe Injury,10,MacDonald,10
+2015-08-22,Joshua King,3346,AFC Bournemouth,22-Aug-15,Hamstring Injury,21,King,21
+2015-08-29,Charlie Daniels,,AFC Bournemouth,29-Aug-15,Knee Injury,21,Daniels,21
+2015-08-29,Max-Alain Gradel,,AFC Bournemouth,29-Aug-15,Knee Injury,181,Gradel,181
+2015-08-29,Tyrone Mings,,AFC Bournemouth,29-Aug-15,Knee Injury,384,Mings,384
+2015-09-12,Tommy Elphick,,AFC Bournemouth,13-Sep-15,Ankle Injury,138,Elphick,139
+2015-09-26,Callum Wilson,3616,AFC Bournemouth,26-Sep-15,Knee Injury,195,Wilson,195
+2015-10-03,Artur Boruc,,AFC Bournemouth,04-Oct-15,thigh Injury,20,Boruc,21
+2015-10-25,Andrew Surman,,AFC Bournemouth,18-Oct-15,Calf Injury,6,Surman,-1
+2015-11-01,Marc Pugh,,AFC Bournemouth,01-Nov-15,Achilles Injury,40,Pugh,40
+2015-11-08,Artur Boruc,,AFC Bournemouth - no valid matches with player participation,08-Nov-15,Groin Injury,26,Boruc,26
+2015-11-07,Lee Tomlin,,AFC Bournemouth,08-Nov-15,Groin Injury,48,Tomlin,49
+2015-12-05,Harry Arter,,AFC Bournemouth,28-Nov-15,Hamstring Injury,6,Arter,-1
+2015-12-05,Steve Cook,,AFC Bournemouth,28-Nov-15,Shoulder Injury,6,Cook,-1
+2015-11-28,Sylvain Distin,,AFC Bournemouth,29-Nov-15,Illness,12,Distin,13
+2015-11-28,Adam Federici,,AFC Bournemouth,28-Nov-15,Ankle Injury,13,Federici,13
+2015-12-12,Joshua King,3346,AFC Bournemouth,13-Dec-15,Hamstring Injury,13,King,14
+2015-12-26,Junior Stanislas,,AFC Bournemouth,19-Dec-15,Hamstring Injury,6,Stanislas,-1
+2016-01-02,Joshua King,3346,AFC Bournemouth,02-Jan-16,Knock,27,King,27
+2016-01-03,Tokelo Anthony Rantie,,AFC Bournemouth - no valid matches with player participation,03-Jan-16,Knock,9,Rantie,9
+2016-01-16,Benik Afobe,,AFC Bournemouth,16-Jan-16,Knee Injury,6,Afobe,6
+2016-01-12,Matt Ritchie,3049,AFC Bournemouth,12-Jan-16,Leg Injury,10,Ritchie,10
+2016-01-23,Junior Stanislas,,AFC Bournemouth,23-Jan-16,Knee Injury,10,Stanislas,10
+2016-03-01,Harry Arter,,AFC Bournemouth,01-Mar-16,Achilles Injury,19,Arter,19
+2016-03-01,Joshua King,3346,AFC Bournemouth,01-Mar-16,Ankle Injury,3,King,3
+2016-03-20,Benik Afobe,,AFC Bournemouth,20-Mar-16,Hamstring Injury,33,Afobe,33
+2016-03-20,Harry Arter,,AFC Bournemouth,20-Mar-16,Achilles Injury,41,Arter,41
+2016-03-20,Joshua King,3346,AFC Bournemouth,21-Mar-16,Calf Injury,11,King,12
+2016-04-03,Sylvain Distin,,AFC Bournemouth - no valid matches with player participation,03-Apr-16,Back Injury,42,Distin,42
+2016-04-02,Adam Smith,6409,AFC Bournemouth,02-Apr-16,Hernia,43,Smith,43
+2016-04-17,Max-Alain Gradel,,AFC Bournemouth,17-Apr-16,Leg Injury,19,Gradel,19
+2015-08-22,Mile Jedinak,,Crystal Palace,25-Aug-15,Hamstring Injury,18,Jedinák,21
+2015-08-29,Damien Delaney,,Crystal Palace,30-Aug-15,Knock,21,Delaney,22
+2015-08-29,Joe Ledley,,Crystal Palace,30-Aug-15,Hamstring Injury,21,Ledley,22
+2015-08-29,Joel Ward,3443,Crystal Palace,30-Aug-15,Knee Injury,58,Ward,59
+2015-08-29,Connor Wickham,,Crystal Palace,30-Aug-15,Rib Injury,70,Wickham,71
+2015-09-12,Mile Jedinak,,Crystal Palace,13-Sep-15,Hamstring injury,33,Jedinák,34
+2015-09-12,Jason Puncheon,19688,Crystal Palace,12-Sep-15,Knock,8,Puncheon,8
+2015-09-20,Damien Delaney,,Crystal Palace,23-Sep-15,Groin injury,23,Delaney,26
+2015-10-17,Pape N''Diaye Souaré,,Crystal Palace,18-Oct-15,Knock,13,Souaré,14
+2015-10-31,Yannick Bolasie Yala,,Crystal Palace,29-Oct-15,Head Injury,2,Bolasie,0
+2015-10-31,Yohan Cabaye,,Crystal Palace,25-Oct-15,Knock,6,Cabaye,0
+2015-10-24,Jason Puncheon,19688,Crystal Palace,24-Oct-15,Illness,7,Puncheon,7
+2015-10-31,Dwight Gayle,,Crystal Palace,01-Nov-15,Hamstring injury,35,Gayle,36
+2015-11-23,Bakary Sako,3469,Crystal Palace,23-Nov-15,Hamstring Injury,49,Sako,49
+2015-12-07,Dwight Gayle,,Crystal Palace,08-Dec-15,Hamstring Injury,74,Gayle,75
+2015-12-07,Mile Jedinak,,Crystal Palace,08-Dec-15,Ankle Injury,18,Jedinák,19
+2015-12-12,Yohan Cabaye,,Crystal Palace,13-Dec-15,Heel Injury,13,Cabaye,14
+2015-12-19,Yannick Bolasie Yala,,Crystal Palace,20-Dec-15,Knock,62,Bolasie,63
+2015-12-19,Connor Wickham,,Crystal Palace,19-Dec-15,Hamstring Injury,23,Wickham,23
+2015-12-26,Damien Delaney,,Crystal Palace,27-Dec-15,Knock,6,Delaney,7
+2016-01-12,Bakary Sako,3469,Crystal Palace,12-Jan-16,Hamstring Injury,48,Sako,48
+2016-02-07,Brede Hangeland,,Crystal Palace - no valid matches with player participation,07-Feb-16,Knock,98,Hangeland,98
+2016-02-02,James McArthur,3464,Crystal Palace,02-Feb-16,Ankle Injury,77,McArthur,77
+2016-02-02,Jason Puncheon,19688,Crystal Palace,03-Feb-16,Hamstring Injury,38,Puncheon,39
+2016-03-10,Marouane Chamakh,,Crystal Palace - no valid matches with player participation,10-Mar-16,Hip Injury,67,Chamakh,67
+2016-03-06,Yohan Cabaye,,Crystal Palace,06-Mar-16,Knock,6,Cabaye,6
+2016-03-01,Wayne Hennessey,,Crystal Palace,02-Mar-16,Knock,10,Hennessey,11
+2016-03-01,Connor Wickham,,Crystal Palace,01-Mar-16,Thigh Injury,32,Wickham,32
+2016-04-13,Dwight Gayle,,Crystal Palace,13-Apr-16,Glute Injury,7,Gayle,7
+2016-04-17,Yannick Bolasie Yala,,Crystal Palace,18-Apr-16,Knock,6,Bolasie,7
+2016-04-17,Scott Dann,,Crystal Palace,18-Apr-16,Foot Injury,6,Dann,7
+2016-04-17,Joe Ledley,,Crystal Palace,18-Apr-16,Knock,6,Ledley,7
+2016-04-17,Joel Ward,3443,Crystal Palace,18-Apr-16,Knock,6,Ward,7
+2016-05-07,Yannick Bolasie Yala,,Crystal Palace,01-May-16,Illness,5,Bolasie,-1
+2016-04-30,Mile Jedinak,,Crystal Palace,01-May-16,Knock,13,Jedinák,14
+2016-04-20,Wilfried Zaha,,Crystal Palace,25-Apr-16,Hamstring Injury,20,Zaha,25
+2016-05-07,Yohan Cabaye,,Crystal Palace,07-May-16,Knock,8,Cabaye,8
+2016-05-07,Joe Ledley,,Crystal Palace,08-May-16,broken leg,33,Ledley,34
+2015-08-21,Victor Moses,,Chelsea - no valid matches with player participation,21-Aug-15,Knock,8,Moses,8
+2015-08-16,Oscar dos Santos Emboaba Júnior,40122,Chelsea - no valid matches with player participation,16-Aug-15,Knock,27,Oscar,27
+2015-09-12,Radamel Falcao García Zárate,,Chelsea,13-Sep-15,Knock,6,Falcao,7
+2015-09-19,Oscar dos Santos Emboaba Júnior,40122,Chelsea,16-Sep-15,Knock,3,Oscar,0
+2015-09-19,Pedro Eliezer Rodríguez Ledesma,3958,Chelsea,12-Sep-15,Thigh Injury,7,Pedro,0
+2015-09-12,Willian Borges da Silva,,Chelsea,16-Sep-15,Muscle Injury,10,Willian,14
+2015-10-03,Branislav Ivanović,,Chelsea,08-Oct-15,Hamstring Injury,30,Ivanović,35
+2015-10-17,Pedro Eliezer Rodríguez Ledesma,3958,Chelsea,17-Oct-15,Knock,14,Pedro,14
+2015-10-17,Loïc Rémy,,Chelsea,18-Oct-15,Knock,8,Rémy,9
+2015-10-31,Diego da Silva Costa,,Chelsea,27-Oct-15,Rib Injury,3,D Costa,-1
+2015-10-31,Radamel Falcao García Zárate,,Chelsea,01-Nov-15,Muscular Injury,152,Falcao,153
+2015-11-07,Kurt Happy Zouma,,Chelsea,08-Nov-15,Knock,12,Zouma,13
+2015-11-21,Ramires Santos do Nascimento,,Chelsea,22-Nov-15,Muscle Injury,13,Ramires,14
+2015-11-21,John Terry,,Chelsea,24-Nov-15,Ankle Injury,11,Terry,14
+2015-12-05,Victor Moses,,Chelsea - no valid matches with player participation,05-Dec-15,Hamstring Injury,38,Moses,38
+2015-12-14,Eden Hazard,3621,Chelsea,14-Dec-15,Hip Injury,12,Hazard,12
+2015-12-26,Gary Cahill,,Chelsea,27-Dec-15,Foot Injury,13,Cahill,14
+2015-12-27,Loïc Rémy,,Chelsea - no valid matches with player participation,27-Dec-15,Calf Injury,16,Rémy,16
+2016-01-03,Eden Hazard,3621,Chelsea,03-Jan-16,Groin Injury,20,Hazard,20
+2016-01-03,Nemanja Matić,,Chelsea,04-Jan-16,Head Injury,8,Matić,9
+2016-01-16,Diego da Silva Costa,,Chelsea,16-Jan-16,Shin Injury,7,D Costa,7
+2016-01-16,Pedro Eliezer Rodríguez Ledesma,3958,Chelsea,17-Jan-16,Illness,13,Pedro,14
+2016-01-24,Diego da Silva Costa,,Chelsea,24-Jan-16,Knee Injury,6,D Costa,6
+2016-01-24,Loïc Rémy,,Chelsea,25-Jan-16,Calf Injury,18,Rémy,19
+2016-02-07,Willian Borges da Silva,,Chelsea,01-Feb-16,Foot Injury,1,Willian,-5
+2016-02-07,Kurt Happy Zouma,,Chelsea,07-Feb-16,Knee Injury,310,Zouma,310
+2016-02-13,John Terry,,Chelsea,13-Feb-16,Muscle Injury,28,Terry,28
+2016-03-05,Eden Hazard,3621,Chelsea,09-Mar-16,Hip Injury,44,Hazard,48
+2016-03-01,Diego da Silva Costa,,Chelsea,02-Mar-16,Tendon Injury,6,D Costa,7
+2016-03-01,Robert Kenedy Nunes do Nascimento,,Chelsea,01-Mar-16,Groin Injury,7,Kenedy,7
+2016-03-19,Robert Kenedy Nunes do Nascimento,,Chelsea,19-Mar-16,Head Injury,13,Kenedy,13
+2016-03-23,Nemanja Matić,,Chelsea - no valid matches with player participation,23-Mar-16,Knock,24,Matić,24
+2016-03-19,John Terry,,Chelsea,20-Mar-16,Achilles Injury,42,Terry,43
+2016-04-02,Loïc Rémy,,Chelsea,02-Apr-16,Groin Injury,44,Rémy,44
+2016-04-16,Gary Cahill,,Chelsea,17-Apr-16,Illness,14,Cahill,15
+2016-05-02,Pedro Eliezer Rodríguez Ledesma,3958,Chelsea,02-May-16,Knock,8,Pedro,8
+2016-05-07,Thibaut Courtois,,Chelsea,10-May-16,Illness,4,Courtois,7
+2016-05-07,Diego da Silva Costa,,Chelsea,08-May-16,Hamstring Injury,7,D Costa,8
+2016-05-07,Branislav Ivanović,,Chelsea,07-May-16,Groin Injury,7,Ivanović,7
+2016-05-15,Willian Borges da Silva,,Chelsea,11-May-16,Hamstring Injury,3,Willian,-1
+2015-08-08,Kevin Mirallas,4317,Everton,08-Aug-15,Ankle Injury,6,Mirallas,6
+2015-08-29,Tom Cleverley,,Everton,29-Aug-15,Ankle Injury,55,Cleverley,55
+2015-08-29,Bryan Oviedo,,Everton,30-Aug-15,Knee Injury,20,Oviedo,21
+2015-09-12,Muhamed Bešić,3476,Everton,12-Sep-15,Hamstring Injury,50,Bešić,50
+2015-09-12,Séamus Coleman,4589,Everton,12-Sep-15,Knock,22,Coleman,22
+2015-09-19,John Stones,,Everton,22-Sep-15,Knee Injury,24,Stones,27
+2015-10-27,Browning,,Everton - no valid matches with player participation,27-Oct-15,Knee Injury,409,Browning,409
+2015-10-24,Séamus Coleman,4589,Everton,24-Oct-15,Illness,7,Coleman,7
+2015-10-24,Phil Jagielka,,Everton,24-Oct-15,MCL Injury,71,Jagielka,71
+2015-11-01,Bryan Oviedo,,Everton,01-Nov-15,Hamstring Injury,72,Oviedo,72
+2015-11-07,Brendan Joel Zibusiso Galloway,,Everton,08-Nov-15,Knock,12,Galloway,13
+2015-11-28,James McCarthy,3607,Everton,28-Nov-15,Groin Injury,28,McCarthy,28
+2015-12-13,Steven Naismith,,Everton - no valid matches with player participation,13-Dec-15,Ankle Injury,13,Naismith,13
+2015-12-28,Tom Cleverley,,Everton,28-Dec-15,Achilles Injury,6,Cleverley,6
+2015-12-28,James McCarthy,3607,Everton,28-Dec-15,Groin Injury,29,McCarthy,29
+2016-01-03,Tom Cleverley,,Everton,06-Jan-16,Calf Injury,9,Cleverley,12
+2016-01-03,Séamus Coleman,4589,Everton,07-Jan-16,Calf Injury,16,Coleman,20
+2016-01-08,Steven Naismith,,Everton - no valid matches with player participation,08-Jan-16,Ankle Injury,8,Naismith,8
+2016-01-16,Bryan Oviedo,,Everton,16-Jan-16,Knock,7,Oviedo,7
+2016-01-24,Muhamed Bešić,3476,Everton,24-Jan-16,Hamstring Injury,40,Bešić,40
+2016-01-24,Tim Howard,,Everton,25-Jan-16,Knock,18,Howard,19
+2016-01-24,Kevin Mirallas,4317,Everton,24-Jan-16,Knee Injury,12,Mirallas,12
+2016-01-24,John Stones,,Everton,27-Jan-16,Hamstring Injury,23,Stones,26
+2016-02-04,Darron Gibson,,Everton - no valid matches with player participation,04-Feb-16,Knock,72,Gibson,72
+2016-02-14,Steven Pienaar,,Everton - no valid matches with player participation,14-Feb-16,Knock,58,Pienaar,58
+2016-03-05,Gareth Barry,,Everton,06-Mar-16,Illness,6,Barry,7
+2016-03-05,Aaron Lennon,,Everton,05-Mar-16,Hamstring Injury,7,Lennon,7
+2016-03-05,Steven Naismith,,Everton - no valid matches with player participation,05-Mar-16,Knock,7,Naismith,7
+2016-03-05,Bryan Oviedo,,Everton,01-Mar-16,Knock,3,Oviedo,-1
+2016-03-05,Bryan Oviedo,,Everton,06-Mar-16,Illness,27,Oviedo,28
+2016-04-09,Tom Cleverley,,Everton,10-Apr-16,Knock,9,Cleverley,10
+2016-04-09,Phil Jagielka,,Everton,09-Apr-16,Hamstring Injury,13,Jagielka,13
+2016-03-20,Brendan Joel Zibusiso Galloway,,Everton - no valid matches with player participation,20-Mar-16,Knock,56,Galloway,56
+2016-03-20,Steven Naismith,,Everton - no valid matches with player participation,20-Mar-16,Hamstring Injury,12,Naismith,12
+2016-03-20,Leon Osman,,Everton - no valid matches with player participation,20-Mar-16,Knock,27,Osman,27
+2016-04-13,Leighton Baines,,Everton,14-Apr-16,Knock,5,Baines,6
+2016-04-13,Aaron Lennon,,Everton,13-Apr-16,Hamstring Injury,6,Lennon,6
+2016-04-20,Gareth Barry,,Everton,20-Apr-16,Knock,20,Barry,20
+2016-04-16,Séamus Coleman,4589,Everton,16-Apr-16,Hamstring Injury,29,Coleman,29
+2016-04-30,Tony Hibbert,,Everton,01-May-16,Ankle Injury,14,Hibbert,15
+2015-08-08,Yohan Benalouane,4826,Leicester City,07-Aug-15,Fatigue,,Benalouane,-1
+2015-08-08,N''Golo Kanté,3961,Leicester City,07-Aug-15,Fatigue,,Kanté,-1
+2015-10-03,José Leonardo Ulloa,,Leicester City,04-Oct-15,Thigh Injury,26,Ulloa,27
+2015-11-07,Jamie Vardy,,Leicester City,08-Nov-15,Hip Injury,12,Vardy,13
+2015-11-28,Ritchie De Laet,,Leicester City,29-Nov-15,Ankle Injury,19,D Laet,20
+2015-12-05,Jeffrey Schlupp,,Leicester City,06-Dec-15,Hamstring Injury,82,Schlupp,83
+2015-12-14,Danny Drinkwater,3662,Leicester City,14-Dec-15,Hamstring Injury,14,Drinkwater,14
+2015-12-19,Jamie Vardy,,Leicester City,19-Dec-15,Hamstring Injury,6,Vardy,6
+2016-01-02,Jamie Vardy,,Leicester City,03-Jan-16,Groin Injury,9,Vardy,10
+2016-01-16,Ritchie De Laet,,Leicester City,17-Jan-16,Groin Injury,16,D Laet,17
+2016-01-23,Shinji Okazaki,,Leicester City,23-Jan-16,Knock,9,Okazaki,9
+2016-02-01,Daniel Amartey,3709,Leicester City - no valid matches with player participation,01-Feb-16,Lack of match fitness,5,Amartey,5
+2016-03-05,Andrew Philip King,3665,Leicester City,06-Mar-16,Hamstring Injury,27,King,28
+2016-05-15,Jamie Vardy,,Leicester City,08-May-16,Hamstring Injury,6,Vardy,-1
+2015-08-17,Jordan Brian Henderson,3532,Liverpool,17-Aug-15,Foot Injury,103,Henderson,103
+2015-08-17,Adam David Lallana,,Liverpool,18-Aug-15,Knock,25,Lallana,26
+2015-09-20,Christian Benteke Liolo,3380,Liverpool,20-Sep-15,Hamstring Injury,31,Benteke,31
+2015-09-23,Dejan Lovren,,Liverpool - no valid matches with player participation,23-Sep-15,Ankle Injury,29,Lovren,29
+2015-09-20,Roberto Firmino Barbosa de Oliveira,,Liverpool,23-Sep-15,Back Injury,28,R Firmino,31
+2015-10-04,Philippe Coutinho Correia,,Liverpool,05-Oct-15,Knock,11,P Coutinho,12
+2015-10-05,Jordan Rossiter,,Liverpool - no valid matches with player participation,05-Oct-15,Hamstring Injury,62,Rossiter,62
+2015-10-04,Daniel Andre Sturridge,,Liverpool,05-Oct-15,Knee Injury,46,Sturridge,47
+2015-10-31,Christian Benteke Liolo,3380,Liverpool,26-Oct-15,Knee Injury,4,Benteke,-1
+2015-10-28,Kolo Habib Touré,38412,Liverpool - no valid matches with player participation,28-Oct-15,Hamstring Injury,23,Touré,23
+2015-10-31,James Philip Milner,,Liverpool,05-Nov-15,Hamstring,15,Milner,20
+2015-11-08,Jordon Ibe,3635,Liverpool,08-Nov-15,Knee Injury,12,Ibe,12
+2015-11-08,Mamadou Sakho,3483,Liverpool,08-Nov-15,Knee Injury,41,Sakho,41
+2015-11-21,Philippe Coutinho Correia,,Liverpool,21-Nov-15,Hamstring Injury,15,P Coutinho,15
+2015-12-13,Jordon Ibe,3635,Liverpool,07-Dec-15,Illness,6,Ibe,0
+2015-12-11,Jordan Rossiter,,Liverpool - no valid matches with player participation,11-Dec-15,Hamstring Injury,156,Rossiter,156
+2015-12-06,Daniel Andre Sturridge,,Liverpool,07-Dec-15,Hamstring Injury,60,Sturridge,61
+2015-12-13,Dejan Lovren,,Liverpool,13-Dec-15,Knee Injury,13,Lovren,13
+2015-12-13,Simon Mignolet,,Liverpool,14-Dec-15,Hamstring Injury,12,Mignolet,13
+2015-12-13,James Philip Milner,,Liverpool,14-Dec-15,Calf Injury,21,Milner,22
+2015-12-20,Jordon Ibe,3635,Liverpool,21-Dec-15,Illness,8,Ibe,9
+2015-12-20,Martin Škrtel,,Liverpool,20-Dec-15,Hamstring Injury,72,Škrtel,72
+2015-12-30,Jordan Brian Henderson,3532,Liverpool,30-Dec-15,Heel Injury,13,Henderson,13
+2015-12-26,Divock Okoth Origi,,Liverpool,26-Dec-15,Hamstring Injury,44,Origi,44
+2016-01-02,Mamadou Sakho,3483,Liverpool,02-Jan-16,Knee Injury,10,Sakho,10
+2016-01-02,Dejan Lovren,,Liverpool,05-Jan-16,Hamstring Injury,20,Lovren,23
+2016-01-02,Philippe Coutinho Correia,,Liverpool,05-Jan-16,Hamstring Injury,32,P Coutinho,35
+2015-12-30,Kolo Habib Touré,38412,Liverpool,05-Jan-16,Knock,7,Touré,13
+2016-01-20,Connor Steven Randall,,Liverpool - no valid matches with player participation,20-Jan-16,Muscle Injury,14,Randall,14
+2016-01-23,Nathaniel Edwin Clyne,,Liverpool,24-Jan-16,Knee Injury,2,Clyne,3
+2016-02-02,Jordan Brian Henderson,3532,Liverpool,26-Jan-16,Eye Injury,6,Henderson,-1
+2016-02-06,Joe Allen,,Liverpool,06-Feb-16,Hamstring Injury,24,Allen,24
+2016-02-06,Adam David Lallana,,Liverpool,07-Feb-16,Calf Injury,20,Lallana,21
+2016-02-06,Dejan Lovren,,Liverpool,06-Feb-16,Hamstring Injury,24,Lovren,24
+2016-02-10,Bradley Shaun Smith,13448,Liverpool - no valid matches with player participation,10-Feb-16,Knock,14,Smith,14
+2016-02-14,Kevin Linford Stewart,,Liverpool,15-Feb-16,Ankle Injury,54,Stewart,55
+2016-03-06,Alberto Moreno Pérez,,Liverpool,11-Mar-16,Hamstring Injury,21,A Moreno,26
+2016-03-06,James Philip Milner,,Liverpool,09-Mar-16,Minor knock,2,Milner,5
+2016-02-29,Lucas Pezzini Leiva,7780,Liverpool - no valid matches with player participation,29-Feb-16,Thigh Injury,40,L Leiva,40
+2016-02-29,Daniel Andre Sturridge,,Liverpool - no valid matches with player participation,29-Feb-16,Muscle Injury,5,Sturridge,5
+2016-04-02,Jordan Brian Henderson,3532,Liverpool,07-Apr-16,Knee Injury,37,Henderson,42
+2016-03-20,Christian Benteke Liolo,3380,Liverpool,23-Mar-16,Knock,28,Benteke,31
+2016-03-20,Divock Okoth Origi,,Liverpool,23-Mar-16,Thigh Injury,9,Origi,12
+2016-03-18,Roberto Firmino Barbosa de Oliveira,,Liverpool - no valid matches with player participation,18-Mar-16,Hamsring Injury,15,R Firmino,15
+2016-04-14,Emre Can,,Liverpool - no valid matches with player participation,14-Apr-16,Ankle Injury,20,Can,20
+2016-04-20,Nathaniel Edwin Clyne,,Liverpool,21-Apr-16,Illness,6,Clyne,7
+2016-04-20,Divock Okoth Origi,,Liverpool,20-Apr-16,Ankle Injury,26,Origi,26
+2016-04-16,Martin Škrtel,,Liverpool - no valid matches with player participation,16-Apr-16,Groin Injury,4,Škrtel,4
+2016-05-01,Danny Ward,9914,Liverpool,02-May-16,Knee Injury,13,Ward,14
+2015-08-16,Gnégnéri Yaya Touré,3087,Manchester City,10-Aug-15,Groin Injury,5,Touré,-1
+2015-08-21,Pablo Javier Zabaleta Girod,,Manchester City - no valid matches with player participation,21-Aug-15,Knee Injury,29,Zabaleta,29
+2015-08-23,Wilfried Guemiand Bony,,Manchester City,24-Aug-15,Leg Injury,19,Bony,20
+2015-09-12,Vincent Kompany,,Manchester City,15-Sep-15,Calf Injury,27,Kompany,30
+2015-09-16,David Josué Jiménez Silva,,Manchester City - no valid matches with player participation,16-Sep-15,Calf Injury,13,Silva,13
+2015-09-19,Wilfried Guemiand Bony,,Manchester City,20-Sep-15,Knock,12,Bony,13
+2015-09-19,Kelechi Promise Iheanacho,,Manchester City,20-Sep-15,Knock,12,Iheanacho,13
+2015-09-19,Eliaquim Mangala,,Manchester City,19-Sep-15,Muscle Injury,13,Mangala,13
+2015-09-26,Samir Nasri,,Manchester City,27-Sep-15,Hamstring Injury,19,Nasri,20
+2015-09-26,Gnégnéri Yaya Touré,3087,Manchester City,26-Sep-15,Hamstring Injury,3,Touré,3
+2015-09-26,Gnégnéri Yaya Touré,3087,Manchester City,30-Sep-15,Hamstring Injury,16,Touré,20
+2015-10-03,Sergio Leonel Agüero del Castillo,,Manchester City,08-Oct-15,Hamstring Injury,43,Agüero,48
+2015-10-03,David Josué Jiménez Silva,,Manchester City,09-Oct-15,Ankle Injury,47,Silva,53
+2015-10-17,Samir Nasri,,Manchester City,18-Oct-15,Hamsring Injury,166,Nasri,167
+2015-10-31,Raheem Sterling,3233,Manchester City,25-Oct-15,Hamstring Injury,6,Sterling,0
+2015-10-28,Pablo Javier Zabaleta Girod,,Manchester City - no valid matches with player participation,28-Oct-15,MCL Injury,61,Zabaleta,61
+2015-11-08,Wilfried Guemiand Bony,,Manchester City,08-Nov-15,Hamstring Injury,19,Bony,19
+2015-11-08,Fabian Delph,,Manchester City,13-Nov-15,Knock,7,Delph,12
+2015-11-08,Vincent Kompany,,Manchester City,09-Nov-15,Calf Strain,47,Kompany,48
+2015-11-21,Joe Hart,,Manchester City,25-Nov-15,Hamstring Injury,9,Hart,13
+2015-11-21,Eliaquim Mangala,,Manchester City,22-Nov-15,Hamstring Injury,8,Mangala,9
+2015-11-25,Patrick Roberts,,Manchester City - no valid matches with player participation,25-Nov-15,Knock,59,Roberts,59
+2015-11-28,Sergio Leonel Agüero del Castillo,,Manchester City,28-Nov-15,Heel Injury,14,Agüero,14
+2015-12-05,Fernando Francisco Reges,,Manchester City,29-Nov-15,Knock,5,Fernando,-1
+2015-12-05,Jesús Navas González,,Manchester City,01-Dec-15,Ankle Injury,3,J Navas,-1
+2015-12-05,Martín Gastón Demichelis,,Manchester City,06-Dec-15,Knock,5,Demichelis,6
+2015-12-05,Fernando Francisco Reges,,Manchester City,06-Dec-15,Hamstring Injury,27,Fernando,28
+2015-12-26,Fabian Delph,,Manchester City,27-Dec-15,Knock,9,Delph,10
+2015-12-26,Vincent Kompany,,Manchester City,26-Dec-15,Calf Injury,49,Kompany,49
+2016-01-02,Wilfried Guemiand Bony,,Manchester City,03-Jan-16,Calf Injury,55,Bony,56
+2016-01-02,Fernando Luiz Rosa,,Manchester City,07-Jan-16,Knock,15,Fernandinho,20
+2016-01-02,Eliaquim Mangala,,Manchester City,06-Jan-16,Hamstring Injury,48,Mangala,52
+2016-01-16,Aleksandar Kolarov,,Manchester City,16-Jan-16,Muscle Injury,16,Kolarov,16
+2016-01-23,Kevin De Bruyne,,Manchester City,27-Jan-16,Knee Injury,65,D Bruyne,69
+2016-02-06,Fabian Delph,,Manchester City,06-Feb-16,Achilles Injury,56,Delph,56
+2016-02-02,Jesús Navas González,,Manchester City,02-Feb-16,Hamstring Injury,25,J Navas,25
+2016-02-02,Bacary Sagna,,Manchester City,03-Feb-16,Knee Injury,20,Sagna,21
+2016-02-06,David Josué Jiménez Silva,,Manchester City,06-Feb-16,Ankle Injury,7,Silva,7
+2016-03-05,Gnégnéri Yaya Touré,,Manchester City,29-Feb-16,Foot Injury,4,Touré,-1
+2016-03-05,Gnégnéri Yaya Touré,,Manchester City,05-Mar-16,Heel Injury,9,Touré,9
+2016-03-20,Joe Hart,,Manchester City,20-Mar-16,Calf Injury,13,Hart,13
+2016-03-20,Raheem Sterling,3233,Manchester City,20-Mar-16,Groin Injury,29,Sterling,29
+2016-03-20,Gnégnéri Yaya Touré,,Manchester City,21-Mar-16,Heel Injury,12,Touré,13
+2016-04-09,Gaël Clichy,,Manchester City,13-Apr-16,Back Injury,9,Clichy,13
+2016-04-12,David Josué Jiménez Silva,,Manchester City - no valid matches with player participation,12-Apr-16,Ankle Injury,10,Silva,10
+2016-04-16,Samir Nasri,,Manchester City,16-Apr-16,Muscle Injury,14,Nasri,14
+2016-04-16,Bacary Sagna,,Manchester City,17-Apr-16,Back Injury,6,Sagna,7
+2016-05-01,Aleksandar Kolarov,,Manchester City,02-May-16,Knock,12,Kolarov,13
+2016-05-01,Samir Nasri,,Manchester City,02-May-16,Illness,12,Nasri,13
+2016-04-23,David Josué Jiménez Silva,,Manchester City,26-Apr-16,Hamstring Injury,19,Silva,22
+2016-05-01,Pablo Javier Zabaleta Girod,,Manchester City,02-May-16,Calf Injury,13,Zabaleta,14
+2016-05-04,Vincent Kompany,,Manchester City - no valid matches with player participation,04-May-16,Thigh Injury,135,Kompany,135
+2015-08-08,Phil Jones,3314,Manchester United - no valid matches with player participation,08-Aug-15,Blood Clot,43,Jones,43
+2015-08-30,Michael Carrick,,Manchester United,31-Aug-15,Calf Injury,12,Carrick,13
+2015-09-12,Luke Shaw,,Manchester United,15-Sep-15,Right leg double fracture,244,Shaw,247
+2015-09-24,Ander Herrera Agüera,,Manchester United - no valid matches with player participation,24-Sep-15,Knock,22,Herrera,22
+2015-09-20,Paddy McNair,,Manchester United,21-Sep-15,Knock,12,McNair,13
+2015-09-20,Faustino Marcos Alberto Rojo,3602,Manchester United,20-Sep-15,Hamstring Injury,26,Rojo,26
+2015-09-26,Michael Carrick,,Manchester United,26-Sep-15,Knock,7,Carrick,7
+2015-09-26,Luis Antonio Valencia Mosquera,3267,Manchester United,27-Sep-15,Knock,2,Valencia,3
+2015-10-04,Michael Carrick,,Manchester United,05-Oct-15,Groin Injury,11,Carrick,12
+2015-10-04,Wayne Mark Rooney,,Manchester United,05-Oct-15,Ankle Injury,11,Rooney,12
+2015-10-04,Bastian Schweinsteiger,,Manchester United,05-Oct-15,Groin Strain,11,Schwein’er,12
+2015-10-04,James Wilson,6361,Manchester United,05-Oct-15,Illness,22,Wilson,23
+2015-10-04,Ashley Young,,Manchester United,05-Oct-15,Calf Injury,22,Young,23
+2015-10-28,Memphis Depay,,Manchester United - no valid matches with player participation,28-Oct-15,Knock,5,Depay,5
+2015-10-25,Luis Antonio Valencia Mosquera,3267,Manchester United,26-Oct-15,Foot Injury,136,Valencia,137
+2015-10-28,James Wilson,6361,Manchester United - no valid matches with player participation,28-Oct-15,Knee Injury,27,Wilson,27
+2015-10-31,Marouane Fellaini-Bakkioui,,Manchester United,04-Nov-15,Calf Injury,20,Fellaini,24
+2015-11-07,Michael Carrick,,Manchester United,13-Nov-15,Ankle Injury,15,Carrick,21
+2015-11-07,Chris Smalling,,Manchester United,13-Nov-15,Knock,7,Smalling,13
+2015-11-21,Ander Herrera Agüera,,Manchester United,21-Nov-15,Hamstring Injury,27,Herrera,27
+2015-11-21,Phil Jones,3314,Manchester United,21-Nov-15,Ankle Injury,20,Jones,20
+2015-11-21,Jesse Lingard,,Manchester United,26-Nov-15,Hamstring Injury,8,Lingard,13
+2015-11-21,Faustino Marcos Alberto Rojo,3602,Manchester United,26-Nov-15,Shoulder Injury,90,Rojo,95
+2015-11-28,Wayne Mark Rooney,,Manchester United,28-Nov-15,Ankle Injury,20,Rooney,20
+2015-12-05,Matteo Darmian,,Manchester United,08-Dec-15,Hamstring Injury,18,Darmian,21
+2015-12-05,Morgan Schneiderlin,,Manchester United,05-Dec-15,Hip Injury,6,Schneiderlin,6
+2015-12-05,Chris Smalling,,Manchester United,09-Dec-15,Groin Injury,9,Smalling,13
+2015-12-12,Jesse Lingard,,Manchester United,12-Dec-15,Hamstring Injury,30,Lingard,30
+2015-12-19,Ashley Young,,Manchester United,13-Dec-15,Knock,5,Young,-1
+2016-01-03,Michael Carrick,,Manchester United - no valid matches with player participation,03-Jan-16,Knock,25,Carrick,25
+2016-01-02,Phil Jones,3314,Manchester United,02-Jan-16,Foot Injury,92,Jones,92
+2016-01-02,Ashley Young,,Manchester United,02-Jan-16,Knock,9,Young,9
+2016-01-04,Nick Powell,,Manchester United - no valid matches with player participation,04-Jan-16,Calf Injury,46,Powell,46
+2016-01-17,Ashley Young,,Manchester United,17-Jan-16,knee injury,4,Young,4
+2016-01-17,Ashley Young,,Manchester United,22-Jan-16,groin injury,71,Young,76
+2016-01-23,Matteo Darmian,,Manchester United,23-Jan-16,Head Injury,9,Darmian,9
+2016-01-23,Adnan Januzaj,,Manchester United,24-Jan-16,Hamstring Injury,34,Januzaj,35
+2016-02-07,Marouane Fellaini-Bakkioui,,Manchester United,07-Feb-16,Muscle Injury,27,Fellaini,27
+2016-02-13,Cameron Borthwick-Jackson,,Manchester United,14-Feb-16,Illness,7,Borthwi’on,8
+2016-02-13,Matteo Darmian,,Manchester United,13-Feb-16,Dislocated Shoulder,17,Darmian,17
+2016-02-13,David de Gea Quintana,,Manchester United,14-Feb-16,Knee Injury,13,D Gea,14
+2016-02-13,Donald Love,,Manchester United,19-Feb-16,Hamstring Injury,30,Love,36
+2016-02-13,Wayne Mark Rooney,,Manchester United,14-Feb-16,Knee Injury,58,Rooney,59
+2016-03-14,Ander Herrera Agüera,,Manchester United - no valid matches with player participation,14-Mar-16,Groin Injury,19,Herrera,19
+2016-02-28,Adnan Januzaj,,Manchester United,29-Feb-16,Knock,68,Januzaj,69
+2016-03-20,Bastian Schweinsteiger,,Manchester United,21-Mar-16,Knee Injury,56,Schwein’er,57
+2016-04-13,Ander Herrera Agüera,,Manchester United - no valid matches with player participation,13-Apr-16,Leg Injury,6,Herrera,6
+2016-05-01,Anthony Martial,,Manchester United,02-May-16,Hamstring Injury,7,Martial,8
+2016-05-07,Matteo Darmian,,Manchester United,07-May-16,Ankle Injury,8,Darmian,8
+2015-08-15,Vurnon Anita,16072,Newcastle United,09-Aug-15,Back Injury,6,Anita,0
+2015-08-15,Moussa Sissoko,,Newcastle United,15-Aug-15,Groin Injury,14,Sissoko,14
+2015-08-30,Steven Taylor,3722,Newcastle United - no valid matches with player participation,30-Aug-15,Hamstring Injury,145,Taylor,145
+2015-08-30,Cheik Ismaël Tioté,,Newcastle United - no valid matches with player participation,30-Aug-15,Knee Injury,27,Tioté,27
+2015-09-18,Karl Darlow,,Newcastle United - no valid matches with player participation,18-Sep-15,Ankle Injury,70,Darlow,70
+2015-09-19,Rolando Aarons,,Newcastle United,20-Sep-15,Calf Injury,41,Aarons,42
+2015-09-19,Papiss Demba Cissé,,Newcastle United,19-Sep-15,Knock,14,Cissé,14
+2015-09-19,Massadio Haïdara,,Newcastle United,19-Sep-15,Knock,28,Haïdara,28
+2015-09-26,Jack Colback,,Newcastle United,26-Sep-15,Knock,21,Colback,21
+2015-09-26,Gabriel Antoine Obertan,,Newcastle United,27-Sep-15,Hamstring Injury,188,Obertan,189
+2015-10-03,Daryl Janmaat,,Newcastle United,04-Oct-15,Knee Injury,13,Janmaat,14
+2015-10-03,Kevin Mbabu,,Newcastle United,03-Oct-15,Knock,22,Mbabu,22
+2015-10-25,Jack Colback,,Newcastle United,26-Oct-15,Knee Injury,32,Colback,33
+2015-11-01,Rolando Aarons,,Newcastle United - no valid matches with player participation,01-Nov-15,Ankle Injury,75,Aarons,75
+2015-11-01,Massadio Haïdara,,Newcastle United - no valid matches with player participation,01-Nov-15,Knee Injury,197,Haïdara,197
+2015-11-07,Rob Elliot,,Newcastle United,08-Nov-15,Thigh Injury,12,Elliot,13
+2015-11-21,Cheik Ismaël Tioté,,Newcastle United,21-Nov-15,Groin Injury,22,Tioté,22
+2015-11-28,Jamaal Lascelles,,Newcastle United,29-Nov-15,Hamstring Injury,27,Lascelles,28
+2015-11-29,Mike Williamson,,Newcastle United - no valid matches with player participation,29-Nov-15,Hamstring Injury,63,Williamson,63
+2015-12-19,Papiss Demba Cissé,,Newcastle United,19-Dec-15,Groin Injury,92,Cissé,92
+2015-12-28,Vurnon Anita,16072,Newcastle United,28-Dec-15,Hamstring Injury,65,Anita,65
+2016-01-02,Jack Colback,,Newcastle United,02-Jan-16,Knock,9,Colback,9
+2016-01-16,Jack Colback,,Newcastle United,17-Jan-16,Knock,26,Colback,27
+2016-01-12,Siem Stefan de Jong,,Newcastle United,13-Jan-16,Eye Injury,49,d Jong,50
+2016-01-16,Paul Dummett,,Newcastle United,16-Jan-16,Hamstring Injury,17,Dummett,17
+2016-01-22,Ivan Toney,,Newcastle United - no valid matches with player participation,22-Jan-16,Ankle Injury,85,Toney,85
+2016-02-03,Paul Dummett,,Newcastle United,03-Feb-16,Hamstring Injury,27,Dummett,27
+2016-02-06,Daryl Janmaat,,Newcastle United,07-Feb-16,Leg Injury,5,Janmaat,6
+2016-02-03,Chancel Mbemba Mangulu,,Newcastle United,03-Feb-16,Foot Injury,46,Mbemba,46
+2016-02-13,Fabricio Coloccini,,Newcastle United,14-Feb-16,Calf Injury,91,Coloccini,92
+2016-02-13,Aleksandar Mitrović,,Newcastle United,13-Feb-16,Knee Injury,17,Mitrović,17
+2016-03-05,Paul Dummett,,Newcastle United,05-Mar-16,Hamstring Injury,42,Dummett,42
+2016-03-02,Yoan Gouffran,43757,Newcastle United,02-Mar-16,Knock,2,Gouffran,2
+2016-03-02,Yoan Gouffran,43757,Newcastle United,06-Mar-16,Knock,70,Gouffran,74
+2016-04-09,Daryl Janmaat,,Newcastle United,09-Apr-16,Groin Injury,27,Janmaat,27
+2016-04-09,Steven Taylor,3722,Newcastle United,09-Apr-16,Knock,20,Taylor,20
+2016-03-20,Daryl Janmaat,,Newcastle United,20-Mar-16,Knee Injury,12,Janmaat,12
+2015-08-07,Kyle Lafferty,9519,Norwich City - no valid matches with player participation,07-Aug-15,Knee Injury,15,Lafferty,15
+2015-08-07,Martin Olsson,3576,Norwich City - no valid matches with player participation,07-Aug-15,Shoulder Injury,15,Olsson,15
+2015-08-30,Gary Hooper,,Norwich City,31-Aug-15,Ankle Injury,54,Hooper,55
+2015-09-20,Lewis Grabban,,Norwich City,23-Sep-15,Ankle Injury,31,Grabban,34
+2015-10-24,Dieumerci Mbokani Bezua,,Norwich City,25-Oct-15,Illness,6,Mbokani,7
+2015-10-31,Nathan Redmond,,Norwich City,01-Nov-15,Thigh Injury,19,Redmond,20
+2015-11-29,Wes Hoolahan,10966,Norwich City,29-Nov-15,Knee Injury,12,Hoolahan,12
+2015-12-12,Andre Wisdom,,Norwich City,12-Dec-15,Hamstring Injury,27,Wisdom,27
+2016-01-13,Lewis Grabban,,Norwich City - no valid matches with player participation,13-Jan-16,Illness,9,Grabban,9
+2016-01-16,Alexander Banor Tettey,,Norwich City,17-Jan-16,Illness,15,Tettey,16
+2016-01-23,Graham Dorrans,,Norwich City,24-Jan-16,Illness,19,Dorrans,20
+2016-01-24,Andre Wisdom,,Norwich City - no valid matches with player participation,24-Jan-16,Knee Injury,47,Wisdom,47
+2016-02-08,Lewis Grabban,,Norwich City - no valid matches with player participation,08-Feb-16,Groin Injury,21,Grabban,21
+2016-02-13,Sébastien Aymar Bassong Nguena,,Norwich City,14-Feb-16,Knock,27,Bassong,28
+2016-02-13,Wes Hoolahan,10966,Norwich City,13-Feb-16,Knock,16,Hoolahan,16
+2016-03-12,Ryan Bennett,,Norwich City,13-Mar-16,Knock,19,Bennett,20
+2016-03-12,Nathan Redmond,,Norwich City,12-Mar-16,Ankle Injury,20,Redmond,20
+2016-03-05,Robert Brady,,Norwich City,05-Mar-16,Knock,7,Brady,7
+2016-03-01,Alexander Banor Tettey,,Norwich City,01-Mar-16,Ankle Injury,76,Tettey,76
+2016-04-09,Timm Klose,,Norwich City,09-Apr-16,Knee Injury,37,Klose,37
+2016-03-19,Russell Martin,,Norwich City,25-Mar-16,Knock,35,Martin,41
+2016-04-16,Ryan Bennett,,Norwich City,17-Apr-16,Illness,20,Bennett,21
+2016-04-16,Andre Wisdom,,Norwich City,17-Apr-16,Knee Injury,29,Wisdom,30
+2016-05-07,Jonathan Howson,,Norwich City,07-May-16,Knee Injury,8,Howson,8
+2015-08-14,Steven Caulker,,Southampton - no valid matches with player participation,14-Aug-15,Illness,9,Caulker,9
+2015-08-07,Gastón Exequiel Ramírez Pereyra,7010,Southampton - no valid matches with player participation,07-Aug-15,Knock,44,Ramírez,44
+2015-10-03,Maarten Stekelenburg,,Southampton,04-Oct-15,Back Injury,20,Stekelenburg,21
+2015-10-17,Jay Rodriguez,,Southampton,18-Oct-15,Foot Injury,167,Rodriguez,168
+2015-11-07,Virgil van Dijk,,Southampton,13-Nov-15,Knee Injury,7,v Dijk,13
+2015-12-05,José Miguel da Rocha Fonte,3960,Southampton,28-Nov-15,Knee Injury,6,J onte,-1
+2015-12-05,Maarten Stekelenburg,,Southampton,06-Dec-15,Toe Injury,13,Stekelenburg,14
+2015-12-12,Victor Wanyama,,Southampton,05-Dec-15,Ankle Injury,6,Wanyama,-1
+2015-12-19,Cédric Ricardo Alves Soares,,Southampton,20-Dec-15,Knock,23,Cédric,24
+2015-12-19,Graziano Pellè,,Southampton,20-Dec-15,Knee Injury,23,Pellè,24
+2016-01-16,,,Southampton,16-Jan-16,Knock,27,Davis,27
+2016-01-13,Graziano Pellè,,Southampton,14-Jan-16,Knee Injury,18,Pellè,19
+2016-02-02,Matt Targett,,Southampton,03-Feb-16,Knock,9,Targett,10
+2016-03-01,Charlie Austin,,Southampton,01-Mar-16,Knee Injury,32,Austin,32
+2016-03-01,Shane Long,,Southampton,01-Mar-16,Knee Injury,10,Long,10
+2016-04-03,Charlie Austin,,Southampton,04-Apr-16,Knee Injury,26,Austin,27
+2016-03-20,Ryan Bertrand,,Southampton,21-Mar-16,Knock,12,Bertrand,13
+2016-04-03,,,Southampton,03-Apr-16,Ankle Injury,13,Davis,13
+2016-04-23,José Miguel da Rocha Fonte,3960,Southampton,16-Apr-16,Head Injury,7,J onte,0
+2016-04-23,Victor Wanyama,,Southampton,16-Apr-16,Rib Injury,7,Wanyama,0
+2016-05-08,Jordy Clasie,,Southampton,08-May-16,Groin Injury,7,Clasie,7
+2016-05-15,Sadio Mané,,Southampton,08-May-16,Illness,6,Mané,-1
+2015-08-09,Osazemwinde Peter Odemwingie,,Stoke City,13-Aug-15,Hamstring Injury,37,Odemwingie,41
+2015-08-15,Erik Pieters,3467,Stoke City,09-Aug-15,Illness,8,Pieters,2
+2015-08-29,Glen Johnson,4724,Stoke City,29-Aug-15,Groin Injury,21,Johnson,21
+2015-09-19,Marc Wilson,13848,Stoke City,23-Sep-15,Calf Injury,25,Wilson,29
+2015-09-26,Xherdan Shaqiri,,Stoke City,26-Sep-15,Calf Injury,7,Shaqiri,7
+2015-10-03,Mame Biram Diouf,,Stoke City,03-Oct-15,Hip Injury,21,Diouf,21
+2015-10-08,Shay Given,,Stoke City - no valid matches with player participation,08-Oct-15,Knee Injury,176,Given,176
+2015-10-24,Glen Johnson,4724,Stoke City,20-Oct-15,Knock,11,Johnson,7
+2015-10-28,Phil Bardsley,,Stoke City - no valid matches with player participation,28-Oct-15,Calf Injury,33,Bardsley,33
+2015-10-24,Bojan Krkíc Pérez,,Stoke City,25-Oct-15,Toe Injury,6,Bojan K,7
+2015-10-24,Geoff Cameron,,Stoke City,24-Oct-15,Thigh Injury,14,Cameron,14
+2015-10-24,José Luis Sanmartín Mato,,Stoke City,24-Oct-15,Knock,28,Joselu,28
+2015-10-27,Marc Muniesa Martínez,,Stoke City - no valid matches with player participation,27-Oct-15,Hamstring Injury,81,Muniesa,81
+2015-10-28,Osazemwinde Peter Odemwingie,,Stoke City - no valid matches with player participation,28-Oct-15,Hamstring Injury,66,Odemwingie,66
+2015-10-31,Jonathan Walters,,Stoke City,27-Oct-15,Hip Injury,4,Walters,0
+2015-11-22,Stephen Ireland,,Stoke City - no valid matches with player participation,22-Nov-15,Knock,61,Ireland,61
+2015-11-28,Xherdan Shaqiri,,Stoke City,21-Nov-15,Hamstring Injury,7,Shaqiri,0
+2015-12-01,Peter Crouch,,Stoke City - no valid matches with player participation,01-Dec-15,Hamstring Injury,34,Crouch,34
+2015-12-05,Xherdan Shaqiri,,Stoke City,05-Dec-15,Hamstring Injury,13,Shaqiri,13
+2015-12-13,Phil Bardsley,,Stoke City - no valid matches with player participation,13-Dec-15,Back Injury,5,Bardsley,5
+2015-12-12,Geoff Cameron,,Stoke City,12-Dec-15,Hamstring Injury,13,Cameron,13
+2016-01-02,Geoff Cameron,,Stoke City,05-Jan-16,Ankle Injury,52,Cameron,55
+2016-01-02,Xherdan Shaqiri,,Stoke City,05-Jan-16,Hamstring Injury,17,Shaqiri,20
+2016-01-17,Marko Arnautović,,Stoke City,17-Jan-16,Hamstring Injury,6,Arnautovic,6
+2016-01-26,Charlie Adam,,Stoke City - no valid matches with player participation,26-Jan-16,Calf Injury,53,Adam,53
+2016-02-02,Marko Arnautović,,Stoke City,26-Jan-16,Knock,6,Arnautovic,-1
+2016-02-02,Glen Johnson,4724,Stoke City,27-Jan-16,Knock,5,Johnson,-1
+2016-01-23,Ryan Shawcross,,Stoke City,23-Jan-16,Back Injury,48,Shawcross,48
+2016-02-02,Jonathan Walters,,Stoke City,27-Jan-16,Knock,5,Walters,-1
+2016-02-06,Marko Arnautović,,Stoke City,07-Feb-16,Illness,19,Arnautovic,20
+2016-02-02,Phil Bardsley,,Stoke City,03-Feb-16,Leg Injury,23,Bardsley,24
+2016-02-02,Jonathan Walters,,Stoke City,03-Feb-16,Illness,9,Walters,10
+2016-02-13,Glen Johnson,4724,Stoke City,13-Feb-16,Knee Injury,93,Johnson,93
+2016-02-13,Marc Muniesa Martínez,,Stoke City,13-Feb-16,Knock,17,Muniesa,17
+2016-03-12,Erik Pieters,3467,Stoke City,12-Mar-16,Knock,20,Pieters,20
+2016-03-12,Xherdan Shaqiri,,Stoke City,12-Mar-16,Thigh Injury,21,Shaqiri,21
+2016-03-12,Ryan Shawcross,,Stoke City,13-Mar-16,Back Injury,20,Shawcross,21
+2016-03-02,Phil Bardsley,,Stoke City,02-Mar-16,Calf Injury,16,Bardsley,16
+2016-03-05,Geoff Cameron,,Stoke City,03-Mar-16,Knock,2,Cameron,0
+2016-03-05,Erik Pieters,3467,Stoke City,06-Mar-16,Calf Injury,5,Pieters,6
+2016-03-19,Jonathan Walters,,Stoke City,20-Mar-16,Knee Injury,40,Walters,41
+2016-04-18,Ibrahim Afellay,,Stoke City,19-Apr-16,ACL Tear,251,Afellay,252
+2016-04-18,Xherdan Shaqiri,,Stoke City,18-Apr-16,Hamstring Injury,11,Shaqiri,11
+2016-05-07,Stephen Ireland,,Stoke City,10-May-16,Broken Leg,600,Ireland,603
+2015-08-07,Danny Graham,4217,Sunderland - no valid matches with player participation,07-Aug-15,Knock,8,Graham,8
+2015-08-08,Adam Johnson,42902,Sunderland,12-Aug-15,Shoulder Injury,38,Johnson,42
+2015-08-07,Yann Gérard M''Vila,4429,Sunderland - no valid matches with player participation,07-Aug-15,Fatigue,8,M'Vila,8
+2015-08-15,Younes Kaboul,,Sunderland,16-Aug-15,Knock,13,Kaboul,14
+2015-08-27,Adam Matthews,,Sunderland - no valid matches with player participation,27-Aug-15,Ankle Injury,93,Matthews,93
+2015-09-14,Emanuele Giaccherini,,Sunderland - no valid matches with player participation,14-Sep-15,thigh injury,11,Giaccherini,11
+2015-09-19,Jack Rodwell,,Sunderland,22-Sep-15,Ankle Injury,10,Rodwell,13
+2015-09-26,Younes Kaboul,,Sunderland,27-Sep-15,Knock,19,Kaboul,20
+2015-10-03,Jack Rodwell,,Sunderland,04-Oct-15,Ankle Injury,27,Rodwell,28
+2015-10-17,Fabio Borini,,Sunderland,18-Oct-15,Foot Injury,14,Borini,15
+2015-10-25,Younes Kaboul,,Sunderland,26-Oct-15,Groin Injury,6,Kaboul,7
+2015-10-25,John O''Shea,16890,Sunderland,25-Oct-15,Hamstring Injury,7,O'Shea,7
+2015-10-25,Ola Toivonen,4417,Sunderland,25-Oct-15,Calf Injury,7,Toivonen,7
+2015-11-07,Fabio Borini,,Sunderland,08-Nov-15,Ankle Injury,20,Borini,21
+2015-11-07,Jack Rodwell,,Sunderland,08-Nov-15,Hamstring Injury,26,Rodwell,27
+2015-11-28,Jermain Defoe,3337,Sunderland,23-Nov-15,Ankle Injury,5,Defoe,0
+2015-11-28,Lee Cattermole,,Sunderland,29-Nov-15,Back Injury,27,Cattermole,28
+2015-11-28,Jermain Defoe,3337,Sunderland,28-Nov-15,Hamstring Injury,13,Defoe,13
+2015-11-28,Sebastian Larsson,,Sunderland,28-Nov-15,Knee Injury,90,Larsson,90
+2015-12-12,Steven Fletcher,9554,Sunderland,05-Dec-15,Foot Injury,6,Fletcher,-1
+2015-12-19,Sebastián Coates Nión,,Sunderland,13-Dec-15,Illness,5,Coates,-1
+2015-12-13,Adam Matthews,,Sunderland - no valid matches with player participation,13-Dec-15,Ankle Injury,40,Matthews,40
+2015-12-19,Younes Kaboul,,Sunderland,20-Dec-15,Hamsring Injury,68,Kaboul,69
+2015-12-26,John O''Shea,16890,Sunderland,27-Dec-15,Calf Injury,3,O'Shea,4
+2015-12-30,Jack Rodwell,,Sunderland,30-Dec-15,Hamstring Injury,13,Rodwell,13
+2016-01-16,Jan Kirchhoff,,Sunderland,17-Jan-16,Knock,15,Kirchhoff,16
+2016-02-02,Fabio Borini,,Sunderland,03-Feb-16,Illness,9,Borini,10
+2016-02-06,Billy Jones,10503,Sunderland,06-Feb-16,Hip Injury,20,Jones,20
+2016-02-02,Jeremain Lens,,Sunderland,02-Feb-16,Hernia,47,Lens,47
+2016-02-06,Duncan Watmore,,Sunderland,06-Feb-16,Ankle Injury,69,Watmore,69
+2016-02-13,Jan Kirchhoff,,Sunderland,13-Feb-16,Hamstring Injury,13,Kirchhoff,13
+2016-03-01,Lee Cattermole,,Sunderland,01-Mar-16,Head Injury,19,Cattermole,19
+2016-03-05,Wahbi Khazri,,Sunderland,05-Mar-16,Knock,15,Khazri,15
+2016-03-01,Jan Kirchhoff,,Sunderland,01-Mar-16,Fatigue,3,Kirchhoff,3
+2016-03-01,John O''Shea,16890,Sunderland,01-Mar-16,Ankle Injury,3,O'Shea,3
+2016-03-20,Younes Kaboul,,Sunderland,20-Mar-16,Calf Injury,12,Kaboul,12
+2016-03-20,Wahbi Khazri,,Sunderland,20-Mar-16,Knock,12,Khazri,12
+2016-03-20,Lamine Koné,13286,Sunderland,21-Mar-16,Knock,11,Koné,12
+2016-05-01,Billy Jones,10503,Sunderland - no valid matches with player participation,01-May-16,Hip Injury,9,Jones,9
+2015-08-08,Sung-Yeung Ki,3605,Swansea City,08-Aug-15,Hamstring Injury,14,SY Ki,14
+2015-08-22,Jefferson Antonio Montero Vite,,Swansea City,23-Aug-15,Thigh Injury,20,Montero,21
+2015-09-14,Nathan Dyer,,Swansea City - no valid matches with player participation,14-Sep-15,Knee Injury,32,Dyer,32
+2015-10-04,André Ayew Pele,3347,Swansea City,05-Oct-15,Knock,13,Ayew,14
+2015-10-05,Wayne Routledge,,Swansea City - no valid matches with player participation,05-Oct-15,Calf Injury,26,Routledge,26
+2015-10-05,Franck Tabanou,,Swansea City - no valid matches with player participation,05-Oct-15,Thigh Injury,96,Tabanou,96
+2015-11-29,Éderzito António Macedo Lopes,15996,Swansea City,29-Nov-15,Ankle Injury,44,Éder,44
+2015-12-11,Jonjo Shelvey,,Swansea City - no valid matches with player participation,11-Dec-15,Calf Injury,9,Shelvey,9
+2015-12-12,Wayne Routledge,,Swansea City,12-Dec-15,Knee Injury,14,Routledge,14
+2015-12-26,Àngel Rangel Zaragoza,3973,Swansea City,20-Dec-15,Knock,6,Rangel,0
+2015-12-26,Federico Fernández,,Swansea City,27-Dec-15,Foot Injury,6,Fernández,7
+2015-12-26,Wayne Routledge,,Swansea City,27-Dec-15,Knock,6,Routledge,7
+2016-02-02,Sung-Yeung Ki,3605,Swansea City,02-Feb-16,Head Injury,10,SY Ki,10
+2016-03-19,Modou Barrow,,Swansea City,12-Mar-16,Hamstring Injury,7,Barrow,0
+2016-03-12,Neil Taylor,9627,Swansea City,13-Mar-16,Leg Injury,14,Taylor,15
+2016-03-05,André Ayew Pele,3347,Swansea City,05-Mar-16,Ankle Injury,28,Ayew,28
+2016-03-06,Jefferson Antonio Montero Vite,,Swansea City - no valid matches with player participation,06-Mar-16,Illness,13,Montero,13
+2016-03-02,Sung-Yeung Ki,3605,Swansea City,02-Mar-16,Ankle Injury,10,SY Ki,10
+2016-04-02,Leon Britton,4631,Swansea City,02-Apr-16,Back Injury,14,Britton,14
+2016-05-01,Jefferson Antonio Montero Vite,,Swansea City,01-May-16,Hamstring Injury,13,Montero,13
+2016-04-24,Alberto Paloschi,,Swansea City,25-Apr-16,Hamstring Injury,20,Paloschi,21
+2016-05-01,Gylfi Þór Sigurðsson,,Swansea City,02-May-16,Shoulder Injury,13,Sigurðsson,14
+2016-05-01,Neil Taylor,9627,Swansea City,02-May-16,Groin Injury,13,Taylor,14
+2016-05-01,Ashley Williams,,Swansea City,02-May-16,Fatigue,13,Williams,14
+2016-05-07,Łukasz Fabiański,,Swansea City,08-May-16,Fatigue,7,Fabiański,8
+2015-08-15,Christian Dannemann Eriksen,,Tottenham Hotspur,16-Aug-15,Knee Injury,35,Eriksen,36
+2015-08-15,Clinton Mua N''Jie,,Tottenham Hotspur - no valid matches with player participation,15-Aug-15,Fatigue,31,N'Jie,31
+2015-08-29,Nabil Bentaleb,,Tottenham Hotspur,30-Aug-15,Ankle Injury,70,Bentaleb,71
+2015-08-29,Mousa Sidi Yaya Dembélé,,Tottenham Hotspur,29-Aug-15,Ankle Injury,36,Dembélé,36
+2015-08-29,Alex Pritchard,,Tottenham Hotspur,30-Aug-15,Ankle Injury,155,Pritchard,156
+2015-09-13,Ryan Mason,40127,Tottenham Hotspur,13-Sep-15,Knee Injury,41,Mason,41
+2015-10-02,Federico Julián Fazio,,Tottenham Hotspur - no valid matches with player participation,02-Oct-15,Hamstring Injury,30,Fazio,30
+2015-09-26,Heung-Min Son,3083,Tottenham Hotspur,26-Sep-15,Foot Injury,39,HeungMin Son,39
+2015-10-02,Danny Rose,3594,Tottenham Hotspur - no valid matches with player participation,02-Oct-15,Head Injury,14,Rose,14
+2015-10-05,Tom Carroll,3310,Tottenham Hotspur - no valid matches with player participation,05-Oct-15,Knock,46,Carroll,46
+2015-10-17,Nacer Chadli,4831,Tottenham Hotspur,17-Oct-15,Ankle Injury,51,Chadli,51
+2015-11-29,Ryan Mason,40127,Tottenham Hotspur,29-Nov-15,Knee Injury,27,Mason,27
+2015-12-05,Mousa Sidi Yaya Dembélé,,Tottenham Hotspur,06-Dec-15,Illness,12,Dembélé,13
+2015-12-05,Clinton Mua N''Jie,,Tottenham Hotspur,10-Dec-15,Knee Injury,135,N'Jie,140
+2015-12-28,Mousa Sidi Yaya Dembélé,,Tottenham Hotspur,28-Dec-15,Ankle Injury,15,Dembélé,15
+2016-01-23,Jan Vertonghen,,Tottenham Hotspur,23-Jan-16,Knee Injury,70,Vertonghen,70
+2016-02-14,Tom Carroll,3310,Tottenham Hotspur,18-Feb-16,Achilles Injury,12,Carroll,16
+2016-02-14,Erik Lamela,,Tottenham Hotspur,15-Feb-16,Illness,9,Lamela,10
+2016-02-14,Hugo Lloris,,Tottenham Hotspur,15-Feb-16,Shoulder Injury,9,Lloris,10
+2016-02-14,Andros Townsend,3297,Tottenham Hotspur - no valid matches with player participation,14-Feb-16,Knock,28,Townsend,28
+2016-03-11,Nabil Bentaleb,,Tottenham Hotspur - no valid matches with player participation,11-Mar-16,Knee Injury,65,Bentaleb,65
+2016-03-05,Danny Rose,3594,Tottenham Hotspur,05-Mar-16,Calf Injury,7,Rose,7
+2016-04-03,Alex Pritchard,,Tottenham Hotspur - no valid matches with player participation,03-Apr-16,Hip Injury,42,Pritchard,42
+2016-05-02,Eric Dier,,Tottenham Hotspur,25-Apr-16,Concussion,6,Dier,-1
+2015-09-20,Tommie Hoban,,Watford - no valid matches with player participation,20-Sep-15,Groin Injury,239,Hoban,239
+2015-09-29,Nordin Amrabat,,Watford - no valid matches with player participation,29-Sep-15,knee injury,51,Amrabat,51
+2015-09-27,José Manuel Jurado Marín,,Watford,28-Sep-15,Hamstring Injury,53,Jurado,54
+2015-10-03,Ikechi Anya,,Watford,03-Oct-15,Calf Injury,13,Anya,13
+2015-10-05,Valon Behrami,,Watford - no valid matches with player participation,05-Oct-15,Calf Injury,11,Behrami,11
+2015-10-03,Allan Romeo Nyom,,Watford,03-Oct-15,Knee Injury,13,Nyom,13
+2015-10-18,Rene Gilmartin,,Watford - no valid matches with player participation,18-Oct-15,Knee Injury,211,Gilmartin,211
+2015-12-05,Adlène Guédioura,,Watford,29-Nov-15,Knock,5,Guédioura,-1
+2015-12-05,Heurelho da Silva Gomes,,Watford,28-Nov-15,Neck Injury,6,H Gomes,-1
+2016-01-13,José Holebas,,Watford,14-Jan-16,Knee Injury,19,Holebas,20
+2016-02-06,Miguel Ángel Britos Cabrera,,Watford,06-Feb-16,Leg Injury,13,Britos,13
+2016-02-06,José Manuel Jurado Marín,,Watford,07-Feb-16,Calf Injury,27,Jurado,28
+2016-03-19,Odion Jude Ighalo,5458,Watford,13-Mar-16,Muscle Injury,6,Ighalo,0
+2016-03-02,Miguel Ángel Britos Cabrera,,Watford,03-Mar-16,Hamstring Injury,16,Britos,17
+2016-04-16,Etienne Capoue,,Watford,09-Apr-16,Knock,7,Capoue,0
+2016-04-02,Almen Abdi,43081,Watford,02-Apr-16,Illness,18,Abdi,18
+2016-04-20,Valon Behrami,,Watford,21-Apr-16,Rib Injury,24,Behrami,25
+2015-08-10,James Grant Chester,,West Bromwich Albion,11-Aug-15,Hamstring Injury,32,Chester,33
+2015-08-15,José Salomón Rondón Giménez,,West Bromwich Albion,12-Aug-15,Fatigue,3,Rondón,0
+2015-08-15,Saido Berahino,,West Bromwich Albion,16-Aug-15,Fatigue,27,Berahino,28
+2015-09-19,Jonathan Grant Evans,11012,West Bromwich Albion,12-Sep-15,Knock,7,Evans,0
+2015-09-19,Gareth McAuley,,West Bromwich Albion,20-Sep-15,Calf Injury,13,McAuley,14
+2015-09-28,Jonas Olsson,20527,West Bromwich Albion,28-Sep-15,Ankle Injury,18,Olsson,18
+2015-10-03,José Salomón Rondón Giménez,,West Bromwich Albion,28-Sep-15,Knock,5,Rondón,0
+2015-10-03,Jonathan Grant Evans,11012,West Bromwich Albion,03-Oct-15,Hamsring Injury,13,Evans,13
+2015-10-03,James Morrison,,West Bromwich Albion,03-Oct-15,Ankle Injury,28,Morrison,28
+2015-10-25,Joleon Lescott,,West Bromwich Albion - no valid matches with player participation,25-Oct-15,Knock,7,Lescott,7
+2015-11-07,Chris Brunt,,West Bromwich Albion,07-Nov-15,Groin Injury,13,Brunt,13
+2015-12-05,Stéphane Sessègnon,,West Bromwich Albion,05-Dec-15,Hamstring Injury,13,Sessegnon,13
+2015-12-28,Victor Chinedu Anichebe,,West Bromwich Albion,28-Dec-15,Hamstring Injury,16,Anichebe,16
+2015-12-28,Jonas Olsson,20527,West Bromwich Albion,28-Dec-15,Hamstring Injury,15,Olsson,15
+2016-01-16,Saido Berahino,,West Bromwich Albion,17-Jan-16,Illness,5,Berahino,6
+2016-01-16,Darren Fletcher,4022,West Bromwich Albion,16-Jan-16,Knee Injury,6,Fletcher,6
+2016-01-13,James Morrison,,West Bromwich Albion,13-Jan-16,Hamstring Injury,123,Morrison,123
+2016-01-16,Jonas Olsson,20527,West Bromwich Albion,14-Jan-16,Hamstring Injury,1,Olsson,-1
+2016-01-16,Jonas Olsson,20527,West Bromwich Albion,16-Jan-16,Illness,6,Olsson,6
+2016-01-16,Chris Brunt,,West Bromwich Albion,19-Jan-16,Calf Injury,24,Brunt,27
+2016-01-23,Saido Berahino,,West Bromwich Albion,24-Jan-16,Leg Injury,5,Berahino,6
+2016-01-23,Darren Fletcher,4022,West Bromwich Albion,24-Jan-16,Knee Injury,8,Fletcher,9
+2016-01-23,Ben Foster,,West Bromwich Albion,24-Jan-16,Knock,8,Foster,9
+2016-01-23,Callum McManaman,,West Bromwich Albion,24-Jan-16,Ankle Injury,69,McManaman,70
+2016-02-06,Craig Dawson,,West Bromwich Albion,07-Feb-16,Ankle Injury,6,Dawson,7
+2016-02-02,Jonathan Grant Evans,11012,West Bromwich Albion,02-Feb-16,Hamstring Injury,10,Evans,10
+2016-02-06,Gareth McAuley,,West Bromwich Albion,07-Feb-16,Thigh Injury,2,McAuley,3
+2016-02-06,Jonas Olsson,20527,West Bromwich Albion,07-Feb-16,Hamstring Injury,2,Olsson,3
+2016-02-06,Gareth McAuley,,West Bromwich Albion,10-Feb-16,Hamstring Injury,16,McAuley,20
+2016-02-13,Craig Dawson,,West Bromwich Albion,14-Feb-16,Knock,12,Dawson,13
+2016-04-16,José Salomón Rondón Giménez,,West Bromwich Albion,09-Apr-16,Back Injury,7,Rondón,0
+2016-04-21,Saido Berahino,,West Bromwich Albion,22-Apr-16,Ankle Injury,7,Berahino,8
+2016-04-21,Ben Foster,,West Bromwich Albion,22-Apr-16,Ankle Injury,7,Foster,8
+2016-04-30,Stéphane Sessègnon,,West Bromwich Albion,01-May-16,Illness,14,Sessegnon,15
+2016-05-15,Jonathan Grant Evans,11012,West Bromwich Albion,08-May-16,Groin Injry,6,Evans,-1
+2016-05-15,Darren Fletcher,4022,West Bromwich Albion,08-May-16,Knock,6,Fletcher,-1
+2015-08-15,Pedro Mba Obiang Avomo,3897,West Ham United,08-Aug-15,Knock,7,Obiang,0
+2015-08-15,Reece Oxford,,West Ham United,15-Aug-15,Knock,7,Oxford,7
+2015-08-15,Mauro Matías Zárate,,West Ham United,15-Aug-15,Hamstring Injury,35,Zárate,35
+2015-08-29,Dimitri Payet,,West Ham United,29-Aug-15,Knock,16,Payet,16
+2015-09-14,Angelo Obinze Ogbonna,3843,West Ham United,14-Sep-15,Hamstring Injury,32,Ogbonna,32
+2015-09-26,Andy Carroll,,West Ham United,27-Sep-15,Ankle Injury,19,Carroll,20
+2015-10-03,Winston Reid,,West Ham United,27-Sep-15,Back Injury,6,Reid,0
+2015-10-03,Aaron Cresswell,,West Ham United,04-Oct-15,Knock,12,Cresswell,13
+2015-10-03,Winston Reid,,West Ham United,03-Oct-15,Hip Injury,28,Reid,28
+2015-10-24,Pedro Mba Obiang Avomo,,West Ham United,25-Oct-15,Thigh Injury,35,Obiang,36
+2015-10-31,Matt Jarvis,,West Ham United - no valid matches with player participation,31-Oct-15,Knee Injury,73,Jarvis,73
+2015-11-07,Dimitri Payet,,West Ham United,07-Nov-15,Ankle Injury,56,Payet,56
+2015-11-07,Enner Remberto Valencia Lastra,28559,West Ham United,07-Nov-15,Ankle Injury,34,Valencia,34
+2015-11-23,Reece Oxford,,West Ham United - no valid matches with player participation,23-Nov-15,Knock,11,Oxford,11
+2015-11-29,Manuel Lanzini,,West Ham United,29-Nov-15,Ankle Injury,27,Lanzini,27
+2015-11-29,Diafra Sakho,3962,West Ham United,29-Nov-15,Thigh Muscle Strain,93,Sakho,93
+2015-12-05,Winston Reid,,West Ham United,06-Dec-15,Hamstring Injury,33,Reid,34
+2015-12-12,Andy Carroll,,West Ham United,13-Dec-15,Groin Injury,13,Carroll,14
+2015-12-20,Nikica Jelavić,,West Ham United,21-Dec-15,Knee Injury,11,Jelavić,12
+2016-01-02,Cheikhou Kouyaté,,West Ham United,03-Jan-16,Knock,12,Kouyaté,13
+2016-01-02,Manuel Lanzini,,West Ham United,02-Jan-16,Groin Injruy,49,Lanzini,49
+2016-01-02,Enner Remberto Valencia Lastra,28559,West Ham United,02-Jan-16,Knock,9,Valencia,9
+2016-01-12,Andy Carroll,,West Ham United,12-Jan-16,Hamstring Injury,27,Carroll,27
+2016-01-16,James Tomkins,,West Ham United,16-Jan-16,Knock,13,Tomkins,13
+2016-01-23,Carl Jenkinson,,West Ham United,23-Jan-16,Knee Injury,275,Jenkinson,275
+2016-01-23,Mark Noble,,West Ham United,24-Jan-16,Illness,8,Noble,9
+2016-02-02,Cheikhou Kouyaté,,West Ham United,02-Feb-16,Eye Injury,6,Kouyaté,6
+2016-02-06,James Tomkins,,West Ham United,06-Feb-16,Calf Injury,55,Tomkins,55
+2016-02-09,Cheikhou Kouyaté,,West Ham United - no valid matches with player participation,09-Feb-16,Head Injury,11,Kouyaté,11
+2016-02-09,Joey O''Brien,36265,West Ham United - no valid matches with player participation,09-Feb-16,Hamstring Injury,38,O'Brien,38
+2016-02-06,Winston Reid,,West Ham United,09-Feb-16,Hamstring Injury,32,Reid,35
+2016-02-13,Andy Carroll,,West Ham United,14-Feb-16,Hip Injury,12,Carroll,13
+2016-02-13,Enner Remberto Valencia Lastra,28559,West Ham United,13-Feb-16,Ankle Injury,28,Valencia,28
+2016-03-02,James Collins,,West Ham United,02-Mar-16,Hamstring Injury,31,Collins,31
+2016-03-18,Samuel Mark Byram,3586,West Ham United - no valid matches with player participation,18-Mar-16,Knock,15,Byram,15
+2016-04-03,Alexandre Dimitri Song-Billong,,West Ham United - no valid matches with player participation,03-Apr-16,Knock,27,Song,27
+2016-04-30,Adrián San Miguel del Castillo,,West Ham United,01-May-16,Calf Injury,14,Adrián,15

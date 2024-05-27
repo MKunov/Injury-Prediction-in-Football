@@ -1,0 +1,2822 @@
+{
+    "Dan Gosling": {
+        "Team": "AFC Bournemouth",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Simon Francis": {
+        "Team": "AFC Bournemouth",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Danny Simpson": {
+        "Team": "Leicester City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Marc Albrighton": {
+        "Team": "Leicester City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Christian Fuchs": {
+        "Team": "Leicester City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Wes Morgan": {
+        "Team": "Leicester City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Riyad Mahrez": {
+        "Team": "Leicester City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Kasper Schmeichel": {
+        "Team": "Leicester City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Marcin Ryszard Wasilewski": {
+        "Team": "Leicester City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Gökhan İnler": {
+        "Team": "Leicester City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Robert Huth": {
+        "Team": "Leicester City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Mark Schwarzer": {
+        "Team": "Leicester City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "James McClean": {
+        "Team": "West Bromwich Albion",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Claudio Ariel Yacob": {
+        "Team": "West Bromwich Albion",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Glyn Oliver Myhill": {
+        "Team": "West Bromwich Albion",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Craig Gardner": {
+        "Team": "West Bromwich Albion",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Anders Rosenkrantz Lindegaard": {
+        "Team": "West Bromwich Albion",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Rickie Lambert": {
+        "Team": "West Bromwich Albion",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Patrick van Aanholt": {
+        "Team": "Sunderland",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "DeAndre Yedlin": {
+        "Team": "Sunderland",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Liam Bridcutt": {
+        "Team": "Sunderland",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Vito Mannone": {
+        "Team": "Sunderland",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Wes Brown": {
+        "Team": "Sunderland",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Jordi Gómez García-Penche": {
+        "Team": "Sunderland",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Jordan Ayew": {
+        "Team": "Aston Villa",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Carles Gil de Pareja Vicent": {
+        "Team": "Aston Villa",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Scott Sinclair": {
+        "Team": "Aston Villa",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Bradley Guzan": {
+        "Team": "Aston Villa",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Mark Bunn": {
+        "Team": "Aston Villa",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Tetchi Jores Charlemagne Ulrich Okore": {
+        "Team": "Aston Villa",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Ayoze Pérez Gutiérrez": {
+        "Team": "Newcastle United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Florian Thauvin": {
+        "Team": "Newcastle United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Georginio Wijnaldum": {
+        "Team": "Newcastle United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Eunan O''Kane": {
+        "Team": "AFC Bournemouth",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Rhoys Wiggins": {
+        "Team": "AFC Bournemouth",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Romelu Lukaku Menama": {
+        "Team": "Everton",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "El-Hadji Baye Oumar Niasse": {
+        "Team": "Everton",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Ross Barkley": {
+        "Team": "Everton",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Matthew Pennington": {
+        "Team": "Everton",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Joel Robles Blázquez": {
+        "Team": "Everton",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Kieran O''Neill Dowell": {
+        "Team": "Everton",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Craig Cathcart": {
+        "Team": "Watford",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Nathan Aké": {
+        "Team": "Watford",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Sebastian Prödl": {
+        "Team": "Watford",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Troy Deeney": {
+        "Team": "Watford",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Ben Watson": {
+        "Team": "Watford",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Mario Suárez Mata": {
+        "Team": "Watford",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Juan Carlos Paredes Reasco": {
+        "Team": "Watford",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Chung-Yong Lee": {
+        "Team": "Crystal Palace",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Martin Kelly": {
+        "Team": "Crystal Palace",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Julián Speroni": {
+        "Team": "Crystal Palace",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Adrian Mariappa": {
+        "Team": "Crystal Palace",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Hiram Boateng": {
+        "Team": "Crystal Palace",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Fraizer Campbell": {
+        "Team": "Crystal Palace",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Jordon Mutch": {
+        "Team": "Crystal Palace",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Emmanuel Adebayor": {
+        "Team": "Crystal Palace",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Jack Wilshere": {
+        "Team": "Arsenal",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Ignacio Monreal Eraso": {
+        "Team": "Arsenal",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Mohamed Naser Elsayed Elneny": {
+        "Team": "Arsenal",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Olivier Giroud": {
+        "Team": "Arsenal",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Alex Iwobi": {
+        "Team": "Arsenal",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Joel Nathaniel Campbell Samuels": {
+        "Team": "Arsenal",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Gabriel Armando de Abreu": {
+        "Team": "Arsenal",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Rushian Hepburn-Murphy": {
+        "Team": "Aston Villa",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Jordan Lyden": {
+        "Team": "Aston Villa",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Aly Cissokho": {
+        "Team": "Aston Villa",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Kevin Toner": {
+        "Team": "Aston Villa",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Daniel William John Ings": {
+        "Team": "Liverpool",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Cameron Brannagan": {
+        "Team": "Liverpool",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Sergi Canós Tenes": {
+        "Team": "Liverpool",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Pedro Chirivella Burgos": {
+        "Team": "Liverpool",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Ádám Bogdán": {
+        "Team": "Liverpool",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Jon Flanagan": {
+        "Team": "Liverpool",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Oluwaseyi Babajide Ojo": {
+        "Team": "Liverpool",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Sam Field": {
+        "Team": "West Bromwich Albion",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Tyler Roberts": {
+        "Team": "West Bromwich Albion",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Sandro Ranieri Guimarães Cordeiro": {
+        "Team": "West Bromwich Albion",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Jonathan Leko": {
+        "Team": "West Bromwich Albion",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Kyle Walker-Peters": {
+        "Team": "Tottenham Hotspur",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Bamidele Alli": {
+        "Team": "Tottenham Hotspur",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Kyle Walker": {
+        "Team": "Tottenham Hotspur",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Kieran Trippier": {
+        "Team": "Tottenham Hotspur",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Michel Vorm": {
+        "Team": "Tottenham Hotspur",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Kevin Wimmer": {
+        "Team": "Tottenham Hotspur",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Harry Kane": {
+        "Team": "Tottenham Hotspur",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Toby Alderweireld": {
+        "Team": "Tottenham Hotspur",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Nicolás Hernán Otamendi": {
+        "Team": "Manchester City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Wilfredo Daniel Caballero": {
+        "Team": "Manchester City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "James Horsfield": {
+        "Team": "Manchester City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Alex McCarthy": {
+        "Team": "Crystal Palace",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Gerard Deulofeu Lázaro": {
+        "Team": "Everton",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "José Ramiro Funes Mori": {
+        "Team": "Everton",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Arouna Koné": {
+        "Team": "Everton",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Cameron Jerome": {
+        "Team": "Norwich City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Declan Rudd": {
+        "Team": "Norwich City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Gary O''Neil": {
+        "Team": "Norwich City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Ivo Daniel Ferreira Mendonca Pinto": {
+        "Team": "Norwich City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Youssouf Chafiq Mulumbu Ngangu": {
+        "Team": "Norwich City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "John Ruddy": {
+        "Team": "Norwich City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Demarai Gray": {
+        "Team": "Leicester City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Jordan Pickford": {
+        "Team": "Sunderland",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Dame N''Doye": {
+        "Team": "Sunderland",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Vadis Odjidja-Ofoe": {
+        "Team": "Norwich City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Ben Davies": {
+        "Team": "Tottenham Hotspur",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Andre Green": {
+        "Team": "Aston Villa",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Bertrand Isidore Traoré": {
+        "Team": "Chelsea",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Kasey Palmer": {
+        "Team": "Chelsea",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Asmir Begović": {
+        "Team": "Chelsea",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Tammy Bakumo-Abraham": {
+        "Team": "Chelsea",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Francesc Fàbregas i Soler": {
+        "Team": "Chelsea",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Ruben Loftus-Cheek": {
+        "Team": "Chelsea",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "César Azpilicueta Tanco": {
+        "Team": "Chelsea",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "John Michael Nchekwube Obinna": {
+        "Team": "Chelsea",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Fikayo Tomori": {
+        "Team": "Chelsea",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Abdul Rahman Baba": {
+        "Team": "Chelsea",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Alexandre Rodrigues da Silva": {
+        "Team": "Chelsea",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Marco Amelia": {
+        "Team": "Chelsea",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Tom Beadling": {
+        "Team": "Sunderland",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "João Carlos Vilaça Teixeira": {
+        "Team": "Liverpool",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Juan Manuel Mata García": {
+        "Team": "Manchester United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Daley Blind": {
+        "Team": "Manchester United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Sergio Germán Romero": {
+        "Team": "Manchester United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Guillermo Varela Olivera": {
+        "Team": "Manchester United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Andreas Hoelgebaum Pereira": {
+        "Team": "Manchester United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Jack Butland": {
+        "Team": "Stoke City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Marco van Ginkel": {
+        "Team": "Stoke City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Glenn Whelan": {
+        "Team": "Stoke City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Philipp Wollscheid": {
+        "Team": "Stoke City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Jakob Haugaard": {
+        "Team": "Stoke City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Alessandro Diamanti": {
+        "Team": "Watford",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Giedrius Arlauskis": {
+        "Team": "Watford",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Segundo Víctor Ibarbo Guerrero": {
+        "Team": "Watford",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Manuel García Alonso": {
+        "Team": "Manchester City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Cameron Humphreys": {
+        "Team": "Manchester City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Baily Cargill": {
+        "Team": "AFC Bournemouth",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Andrej Kramarić": {
+        "Team": "Leicester City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Michail Antonio": {
+        "Team": "West Ham United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Darren Randolph": {
+        "Team": "West Ham United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Serge Gnabry": {
+        "Team": "West Bromwich Albion",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Yann Kermorgant": {
+        "Team": "AFC Bournemouth",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Lloyd Dyer": {
+        "Team": "Watford",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Ryan Allsop": {
+        "Team": "AFC Bournemouth",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Kyle Naughton": {
+        "Team": "Swansea City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "André Ayew Pelé": {
+        "Team": "Swansea City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Jack Frank Porteous Cork": {
+        "Team": "Swansea City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Kyle Bartley": {
+        "Team": "Swansea City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Bafétimbi Gomis": {
+        "Team": "Swansea City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Gerhard Tremmel": {
+        "Team": "Swansea City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Kristoffer Nordfeldt": {
+        "Team": "Swansea City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Oriol Romeu Vidal": {
+        "Team": "Southampton",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Maya Yoshida": {
+        "Team": "Southampton",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "James Ward-Prowse": {
+        "Team": "Southampton",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Rhu-endly Martina": {
+        "Team": "Southampton",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Steven Davis": {
+        "Team": "Southampton",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Dušan Tadić": {
+        "Team": "Southampton",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Juan Miguel Jiménez López": {
+        "Team": "Southampton",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Kelvin Davis": {
+        "Team": "Southampton",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Bradley Johnson": {
+        "Team": "Norwich City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Steven Whittaker": {
+        "Team": "Norwich City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Calum Chambers": {
+        "Team": "Arsenal",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Mathieu Debuchy": {
+        "Team": "Arsenal",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Matt Macey": {
+        "Team": "Arsenal",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Jeff Reine-Adélaïde": {
+        "Team": "Arsenal",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Timothy Michael Krul": {
+        "Team": "Newcastle United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Jamal Blackman": {
+        "Team": "Chelsea",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Cristian Gamboa Luna": {
+        "Team": "West Bromwich Albion",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Brown Ideye Aide": {
+        "Team": "West Bromwich Albion",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Jack Rose": {
+        "Team": "West Bromwich Albion",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Josh Onomah": {
+        "Team": "Tottenham Hotspur",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Steven Berghuis": {
+        "Team": "Watford",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Ben Chilwell": {
+        "Team": "Leicester City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Joe Dodoo": {
+        "Team": "Leicester City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Josh Cullen": {
+        "Team": "West Ham United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Elliott Lee": {
+        "Team": "West Ham United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Kyle Knoyle": {
+        "Team": "West Ham United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Martin Samuelsen": {
+        "Team": "West Ham United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Raphael Spiegel": {
+        "Team": "West Ham United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Joe Gomez": {
+        "Team": "Liverpool",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Richard Wright": {
+        "Team": "Manchester City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Joe Cole": {
+        "Team": "Aston Villa",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Freddie Woodman": {
+        "Team": "Newcastle United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Pablo Maffeo Becerra": {
+        "Team": "Manchester City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Mason Holgate": {
+        "Team": "Everton",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Guangtai Jiang": {
+        "Team": "Everton",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Matt Butcher": {
+        "Team": "AFC Bournemouth",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Marvin Emnes": {
+        "Team": "Swansea City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Matt Grimes": {
+        "Team": "Swansea City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Mamadou Obbi Oularé": {
+        "Team": "Watford",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Ryan Fulton": {
+        "Team": "Liverpool",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Papiss Mison Djilobodji": {
+        "Team": "Chelsea",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Jake Gray": {
+        "Team": "Crystal Palace",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Paulo Dino Gazzaniga": {
+        "Team": "Southampton",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Harrison Reed": {
+        "Team": "Southampton",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Javier Hernández Balcázar": {
+        "Team": "Manchester United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Sam Johnstone": {
+        "Team": "Manchester United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Nathan Baker": {
+        "Team": "Aston Villa",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Aiden McGeady": {
+        "Team": "Everton",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Harry Winks": {
+        "Team": "Tottenham Hotspur",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Marcus Rashford": {
+        "Team": "Manchester United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Sean Goss": {
+        "Team": "Manchester United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Axel Tuanzebe": {
+        "Team": "Manchester United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Jason Denayer": {
+        "Team": "Manchester City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Jamie Sterry": {
+        "Team": "Newcastle United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Jerome Sinclair": {
+        "Team": "Liverpool",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Brandon Barker": {
+        "Team": "Manchester City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "George Evans": {
+        "Team": "Manchester City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Lynden Gooch": {
+        "Team": "Sunderland",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Steven Hendrie": {
+        "Team": "West Ham United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Djair Parfitt-Williams": {
+        "Team": "West Ham United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Steve Sidwell": {
+        "Team": "Stoke City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Dean Hammond": {
+        "Team": "Leicester City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Luke Croll": {
+        "Team": "Crystal Palace",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Matěj Vydra": {
+        "Team": "Watford",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Miguel Arturo Layún Prado": {
+        "Team": "Watford",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Charles N\"Zogbia": {
+        "Team": "Aston Villa",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Jordi Amat Maas": {
+        "Team": "Swansea City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Ricky van Wolfswinkel": {
+        "Team": "Norwich City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Ryan Seager": {
+        "Team": "Southampton",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Kevin Nolan": {
+        "Team": "West Ham United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Modibo Maïga": {
+        "Team": "West Ham United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Conor McAleny": {
+        "Team": "Everton",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Gabriele Angella": {
+        "Team": "Watford",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Daniel Pudil": {
+        "Team": "Watford",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Jonny Maddison": {
+        "Team": "Leicester City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Juan Guillermo Cuadrado Bello": {
+        "Team": "Chelsea",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Fernando Martín Forestieri": {
+        "Team": "Watford",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Fraser Forster": {
+        "Team": "Southampton",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Emmanuel Emenike": {
+        "Team": "West Ham United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Juan Manuel Iturbe Arévalo": {
+        "Team": "AFC Bournemouth",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Leroy Fer": {
+        "Team": "Swansea City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Jay Fulton": {
+        "Team": "Swansea City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Stephen Kingsley": {
+        "Team": "Swansea City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Gilbert Gianelli Imbula Wanga": {
+        "Team": "Stoke City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Dionatan do Nascimento Teixeira": {
+        "Team": "Stoke City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Sullay Kaikai": {
+        "Team": "Crystal Palace",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Niall Mason": {
+        "Team": "Aston Villa",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Emmanuel Rivière": {
+        "Team": "Newcastle United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Henri Saivet": {
+        "Team": "Newcastle United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Seydou Doumbia": {
+        "Team": "Newcastle United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Daniel Bachmann": {
+        "Team": "Stoke City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Will Keane": {
+        "Team": "Manchester United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "James Weir": {
+        "Team": "Manchester United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "George Honeyman": {
+        "Team": "Sunderland",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Callum Connolly": {
+        "Team": "Everton",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Matt Miazga": {
+        "Team": "Chelsea",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Jake-Liam Clarke-Salter": {
+        "Team": "Chelsea",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Sébastien Pocognoli": {
+        "Team": "West Bromwich Albion",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Timothy Evans Fosu-Mensah": {
+        "Team": "Manchester United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Sylvain Marveaux": {
+        "Team": "Newcastle United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Bersant Celina": {
+        "Team": "Manchester City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "José Ángel Esmoris Tasende": {
+        "Team": "Manchester City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Jonathan Williams": {
+        "Team": "Crystal Palace",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Charlie Colkett": {
+        "Team": "Chelsea",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Temitayo Olufisayo Olaoluwa Aina": {
+        "Team": "Chelsea",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Jonjoe Kenny": {
+        "Team": "Everton",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Tom Davies": {
+        "Team": "Everton",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Tony Andreu": {
+        "Team": "Norwich City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Jindřich Staněk": {
+        "Team": "Everton",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Aleix García Serrano": {
+        "Team": "Manchester City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Josh Vickers": {
+        "Team": "Swansea City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Kenji Gorré": {
+        "Team": "Swansea City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Corey Jordan": {
+        "Team": "AFC Bournemouth",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Jordan Holmes": {
+        "Team": "AFC Bournemouth",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Mikael Mandron": {
+        "Team": "Sunderland",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Olufela Olomola": {
+        "Team": "Southampton",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Keinan Davis": {
+        "Team": "Aston Villa",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Joe Rothwell": {
+        "Team": "Manchester United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Joe Riley": {
+        "Team": "Manchester United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Marcus Browne": {
+        "Team": "West Ham United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Mohamed El Ouriachi": {
+        "Team": "Stoke City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "George Dobson": {
+        "Team": "West Ham United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Doneil Henry": {
+        "Team": "West Ham United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Daniel Barlaser": {
+        "Team": "Newcastle United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Liam Gibson": {
+        "Team": "Newcastle United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Callum Williams": {
+        "Team": "Newcastle United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Connor Dymond": {
+        "Team": "Crystal Palace",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Oliver Shenton": {
+        "Team": "Stoke City",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Thomas Robson": {
+        "Team": "Sunderland",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Rees Greenwood": {
+        "Team": "Sunderland",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Luke Dreher": {
+        "Team": "Crystal Palace",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Alex Palmer": {
+        "Team": "West Bromwich Albion",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    },
+    "Diego Poyet González": {
+        "Team": "West Ham United",
+        "Id": NaN,
+        "Injury_dates": [
+            NaN
+        ],
+        "Injury_duration": [
+            NaN
+        ]
+    }
+}

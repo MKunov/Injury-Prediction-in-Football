@@ -1,0 +1,2147 @@
+{
+    "Jack Grealish": {
+        "Team": "Aston Villa",
+        "Injury_dates": [
+            "2015-08-22",
+            "2015-12-28"
+        ]
+    },
+    "Bertrand Isidore Traoré": {
+        "Team": "Aston Villa",
+        "Injury_dates": [
+            "2015-08-22",
+            "2015-09-26",
+            "2015-12-28"
+        ]
+    },
+    "Idrissa Gana Gueye": {
+        "Team": "Aston Villa",
+        "Injury_dates": [
+            "2015-08-29"
+        ]
+    },
+    "Tiago Abiola Delfim Almeida Ilori": {
+        "Team": "Aston Villa",
+        "Injury_dates": [
+            "2015-08-29"
+        ]
+    },
+    "Gabriel Imuetinyan Agbonlahor": {
+        "Team": "Aston Villa",
+        "Injury_dates": [
+            "2015-09-19",
+            "2015-12-05",
+            "2016-02-27",
+            "2016-03-13"
+        ]
+    },
+    "Ciaran Clark": {
+        "Team": "Aston Villa",
+        "Injury_dates": [
+            "2015-09-19",
+            "2016-04-16"
+        ]
+    },
+    "Micah Richards": {
+        "Team": "Aston Villa",
+        "Injury_dates": [
+            "2015-10-24",
+            "2015-11-28",
+            "2016-03-05"
+        ]
+    },
+    "José Ángel Crespo Rincón": {
+        "Team": "Aston Villa",
+        "Injury_dates": [
+            "2015-11-02"
+        ]
+    },
+    "Jordan Amavi": {
+        "Team": "Aston Villa",
+        "Injury_dates": [
+            "2015-11-08"
+        ]
+    },
+    "Rudy Gestede": {
+        "Team": "Aston Villa",
+        "Injury_dates": [
+            "2015-11-08",
+            "2016-01-16",
+            "2016-04-30"
+        ]
+    },
+    "Alexis Alejandro Sánchez Sánchez": {
+        "Team": "Aston Villa",
+        "Injury_dates": [
+            "2015-11-28",
+            "2015-12-19",
+            "2016-01-12",
+            "2015-11-29"
+        ]
+    },
+    "Alan Hutton": {
+        "Team": "Aston Villa",
+        "Injury_dates": [
+            "2015-12-28"
+        ]
+    },
+    "Leandro Bacuna": {
+        "Team": "Aston Villa",
+        "Injury_dates": [
+            "2016-01-12"
+        ]
+    },
+    "Kieran Richardson": {
+        "Team": "Aston Villa",
+        "Injury_dates": [
+            "2016-01-16",
+            "2016-04-09"
+        ]
+    },
+    "Libor Kozák": {
+        "Team": "Aston Villa",
+        "Injury_dates": [
+            "2016-01-16"
+        ]
+    },
+    "Jordan Veretout": {
+        "Team": "Aston Villa",
+        "Injury_dates": [
+            "2016-04-30"
+        ]
+    },
+    "Laurent Koscielny": {
+        "Team": "Arsenal",
+        "Injury_dates": [
+            "2015-08-16",
+            "2015-09-26",
+            "2016-02-28"
+        ]
+    },
+    "Per Mertesacker": {
+        "Team": "Arsenal",
+        "Injury_dates": [
+            "2015-08-16",
+            "2015-09-12",
+            "2016-04-24"
+        ]
+    },
+    "Francis Joseph Coquelin": {
+        "Team": "Arsenal",
+        "Injury_dates": [
+            "2015-09-19"
+        ]
+    },
+    "Mikel Arteta Amatriain": {
+        "Team": "Arsenal",
+        "Injury_dates": [
+            "2015-09-26",
+            "2015-10-17"
+        ]
+    },
+    "Mathieu Flamini": {
+        "Team": "Arsenal",
+        "Injury_dates": [
+            "2015-09-19"
+        ]
+    },
+    "Aaron Ramsey": {
+        "Team": "Arsenal",
+        "Injury_dates": [
+            "2015-10-17",
+            "2016-03-02"
+        ]
+    },
+    "Alex Oxlade-Chamberlain": {
+        "Team": "Arsenal",
+        "Injury_dates": [
+            "2015-10-24"
+        ]
+    },
+    "Theo Walcott": {
+        "Team": "Arsenal",
+        "Injury_dates": [
+            "2015-10-24"
+        ]
+    },
+    "Héctor Bellerín Moruno": {
+        "Team": "Arsenal",
+        "Injury_dates": [
+            "2015-10-31"
+        ]
+    },
+    "Kieran Gibbs": {
+        "Team": "Arsenal",
+        "Injury_dates": [
+            "2015-11-21"
+        ]
+    },
+    "Santiago Cazorla González": {
+        "Team": "Arsenal",
+        "Injury_dates": [
+            "2015-11-29"
+        ]
+    },
+    "David Ospina Ramírez": {
+        "Team": "Arsenal",
+        "Injury_dates": [
+            "2016-01-02"
+        ]
+    },
+    "Mesut Özil": {
+        "Team": "Arsenal",
+        "Injury_dates": [
+            "2016-01-13",
+            "2016-04-24"
+        ]
+    },
+    "Petr Čech": {
+        "Team": "Arsenal",
+        "Injury_dates": [
+            "2016-03-02"
+        ]
+    },
+    "Andrew Philip King": {
+        "Team": "AFC Bournemouth",
+        "Injury_dates": [
+            "2015-08-17",
+            "2015-12-12",
+            "2015-12-28",
+            "2016-02-27",
+            "2016-03-20",
+            "2016-03-01"
+        ]
+    },
+    "Charlie Daniels": {
+        "Team": "AFC Bournemouth",
+        "Injury_dates": [
+            "2015-08-22"
+        ]
+    },
+    "Max-Alain Gradel": {
+        "Team": "AFC Bournemouth",
+        "Injury_dates": [
+            "2015-08-22"
+        ]
+    },
+    "Tyrone Mings": {
+        "Team": "AFC Bournemouth",
+        "Injury_dates": [
+            "2015-08-22"
+        ]
+    },
+    "Tommy Elphick": {
+        "Team": "AFC Bournemouth",
+        "Injury_dates": [
+            "2015-09-12"
+        ]
+    },
+    "Marc Wilson": {
+        "Team": "AFC Bournemouth",
+        "Injury_dates": [
+            "2015-09-19",
+            "2015-10-04",
+            "2015-10-25",
+            "2015-09-19"
+        ]
+    },
+    "Artur Boruc": {
+        "Team": "AFC Bournemouth",
+        "Injury_dates": [
+            "2015-10-03",
+            "2015-11-07"
+        ]
+    },
+    "Andrew Surman": {
+        "Team": "AFC Bournemouth",
+        "Injury_dates": [
+            "2015-10-17"
+        ]
+    },
+    "Marc Pugh": {
+        "Team": "AFC Bournemouth",
+        "Injury_dates": [
+            "2015-10-25"
+        ]
+    },
+    "Lee Tomlin": {
+        "Team": "AFC Bournemouth",
+        "Injury_dates": [
+            "2015-11-07"
+        ]
+    },
+    "Harry Arter": {
+        "Team": "AFC Bournemouth",
+        "Injury_dates": [
+            "2015-11-21",
+            "2016-02-27"
+        ]
+    },
+    "Steve Cook": {
+        "Team": "AFC Bournemouth",
+        "Injury_dates": [
+            "2015-11-21"
+        ]
+    },
+    "Sylvain Distin": {
+        "Team": "AFC Bournemouth",
+        "Injury_dates": [
+            "2015-11-28",
+            "2016-04-02"
+        ]
+    },
+    "Adam Federici": {
+        "Team": "AFC Bournemouth",
+        "Injury_dates": [
+            "2015-11-21"
+        ]
+    },
+    "Junior Stanislas": {
+        "Team": "AFC Bournemouth",
+        "Injury_dates": [
+            "2015-12-12",
+            "2016-01-16"
+        ]
+    },
+    "Tokelo Anthony Rantie": {
+        "Team": "AFC Bournemouth",
+        "Injury_dates": [
+            "2016-01-02"
+        ]
+    },
+    "Benik Afobe": {
+        "Team": "AFC Bournemouth",
+        "Injury_dates": [
+            "2016-01-12"
+        ]
+    },
+    "Mile Jedinak": {
+        "Team": "Crystal Palace",
+        "Injury_dates": [
+            "2015-08-22",
+            "2015-09-12",
+            "2015-12-07",
+            "2016-04-30"
+        ]
+    },
+    "Damien Delaney": {
+        "Team": "Crystal Palace",
+        "Injury_dates": [
+            "2015-08-29",
+            "2015-09-20",
+            "2015-12-26"
+        ]
+    },
+    "Joe Ledley": {
+        "Team": "Crystal Palace",
+        "Injury_dates": [
+            "2015-08-29",
+            "2016-04-13",
+            "2016-05-07"
+        ]
+    },
+    "Danny Ward": {
+        "Team": "Crystal Palace",
+        "Injury_dates": [
+            "2015-08-29",
+            "2016-04-13",
+            "2016-05-01"
+        ]
+    },
+    "Connor Wickham": {
+        "Team": "Crystal Palace",
+        "Injury_dates": [
+            "2015-08-29",
+            "2015-12-12",
+            "2016-02-27"
+        ]
+    },
+    "Pape N''Diaye Souaré": {
+        "Team": "Crystal Palace",
+        "Injury_dates": [
+            "2015-10-17"
+        ]
+    },
+    "Yannick Bolasie Yala": {
+        "Team": "Crystal Palace",
+        "Injury_dates": [
+            "2015-10-24",
+            "2015-12-19",
+            "2016-04-13",
+            "2016-04-30"
+        ]
+    },
+    "Yohan Cabaye": {
+        "Team": "Crystal Palace",
+        "Injury_dates": [
+            "2015-10-24",
+            "2015-12-07",
+            "2016-03-01",
+            "2016-04-30"
+        ]
+    },
+    "Jason Puncheon": {
+        "Team": "Crystal Palace",
+        "Injury_dates": [
+            "2015-10-17",
+            "2016-02-02"
+        ]
+    },
+    "Dwight Gayle": {
+        "Team": "Crystal Palace",
+        "Injury_dates": [
+            "2015-10-31",
+            "2015-12-07",
+            "2016-04-09"
+        ]
+    },
+    "Brede Hangeland": {
+        "Team": "Crystal Palace",
+        "Injury_dates": [
+            "2016-02-02"
+        ]
+    },
+    "Marouane Chamakh": {
+        "Team": "Crystal Palace",
+        "Injury_dates": [
+            "2016-03-06"
+        ]
+    },
+    "Wayne Hennessey": {
+        "Team": "Crystal Palace",
+        "Injury_dates": [
+            "2016-03-01"
+        ]
+    },
+    "Scott Dann": {
+        "Team": "Crystal Palace",
+        "Injury_dates": [
+            "2016-04-13"
+        ]
+    },
+    "Wilfried Zaha": {
+        "Team": "Crystal Palace",
+        "Injury_dates": [
+            "2016-04-20"
+        ]
+    },
+    "Victor Moses": {
+        "Team": "Chelsea",
+        "Injury_dates": [
+            "2015-08-16",
+            "2015-11-29"
+        ]
+    },
+    "Radamel Falcao García Zárate": {
+        "Team": "Chelsea",
+        "Injury_dates": [
+            "2015-09-12",
+            "2015-10-31"
+        ]
+    },
+    "Oscar dos Santos Emboaba Júnior": {
+        "Team": "Chelsea",
+        "Injury_dates": [
+            "2015-09-12"
+        ]
+    },
+    "Willian Borges da Silva": {
+        "Team": "Chelsea",
+        "Injury_dates": [
+            "2015-09-12",
+            "2016-05-07"
+        ]
+    },
+    "Branislav Ivanović": {
+        "Team": "Chelsea",
+        "Injury_dates": [
+            "2015-10-03",
+            "2016-05-02"
+        ]
+    },
+    "Loïc Rémy": {
+        "Team": "Chelsea",
+        "Injury_dates": [
+            "2015-10-17",
+            "2015-12-26",
+            "2016-01-24"
+        ]
+    },
+    "Diego da Silva Costa": {
+        "Team": "Chelsea",
+        "Injury_dates": [
+            "2015-10-24",
+            "2016-01-13",
+            "2016-02-27",
+            "2016-05-02"
+        ]
+    },
+    "Kurt Happy Zouma": {
+        "Team": "Chelsea",
+        "Injury_dates": [
+            "2015-11-07",
+            "2016-02-03"
+        ]
+    },
+    "Ramires Santos do Nascimento": {
+        "Team": "Chelsea",
+        "Injury_dates": [
+            "2015-11-21"
+        ]
+    },
+    "John Terry": {
+        "Team": "Chelsea",
+        "Injury_dates": [
+            "2015-11-21",
+            "2016-02-07",
+            "2016-03-19"
+        ]
+    },
+    "Gary Cahill": {
+        "Team": "Chelsea",
+        "Injury_dates": [
+            "2015-12-26",
+            "2016-04-16"
+        ]
+    },
+    "Eden Hazard": {
+        "Team": "Chelsea",
+        "Injury_dates": [
+            "2015-12-28",
+            "2016-03-05"
+        ]
+    },
+    "Nemanja Matić": {
+        "Team": "Chelsea",
+        "Injury_dates": [
+            "2015-12-28",
+            "2016-03-19"
+        ]
+    },
+    "Pedro Eliezer Rodríguez Ledesma": {
+        "Team": "Chelsea",
+        "Injury_dates": [
+            "2016-01-13"
+        ]
+    },
+    "Robert Kenedy Nunes do Nascimento": {
+        "Team": "Chelsea",
+        "Injury_dates": [
+            "2016-02-27"
+        ]
+    },
+    "Thibaut Courtois": {
+        "Team": "Chelsea",
+        "Injury_dates": [
+            "2016-05-07"
+        ]
+    },
+    "Tom Cleverley": {
+        "Team": "Everton",
+        "Injury_dates": [
+            "2015-08-23",
+            "2015-12-26",
+            "2016-01-03",
+            "2016-04-09"
+        ]
+    },
+    "Bryan Oviedo": {
+        "Team": "Everton",
+        "Injury_dates": [
+            "2015-08-23",
+            "2016-01-13",
+            "2016-03-05"
+        ]
+    },
+    "John Stones": {
+        "Team": "Everton",
+        "Injury_dates": [
+            "2015-09-19",
+            "2016-01-24"
+        ]
+    },
+    "Séamus Coleman": {
+        "Team": "Everton",
+        "Injury_dates": [
+            "2015-10-17",
+            "2016-01-03",
+            "2016-04-13"
+        ]
+    },
+    "Phil Jagielka": {
+        "Team": "Everton",
+        "Injury_dates": [
+            "2015-10-17",
+            "2016-04-03"
+        ]
+    },
+    "Brendan Joel Zibusiso Galloway": {
+        "Team": "Everton",
+        "Injury_dates": [
+            "2015-11-01",
+            "2016-03-19"
+        ]
+    },
+    "Alex McCarthy": {
+        "Team": "Everton",
+        "Injury_dates": [
+            "2015-11-21",
+            "2015-12-26"
+        ]
+    },
+    "Steven Naismith": {
+        "Team": "Everton",
+        "Injury_dates": [
+            "2015-12-07",
+            "2016-01-03",
+            "2016-03-01",
+            "2016-03-19"
+        ]
+    },
+    "Tim Howard": {
+        "Team": "Everton",
+        "Injury_dates": [
+            "2016-01-24"
+        ]
+    },
+    "Darron Gibson": {
+        "Team": "Everton",
+        "Injury_dates": [
+            "2016-02-03"
+        ]
+    },
+    "Steven Pienaar": {
+        "Team": "Everton",
+        "Injury_dates": [
+            "2016-02-13"
+        ]
+    },
+    "Gareth Barry": {
+        "Team": "Everton",
+        "Injury_dates": [
+            "2016-03-05",
+            "2016-04-13"
+        ]
+    },
+    "Aaron Lennon": {
+        "Team": "Everton",
+        "Injury_dates": [
+            "2016-03-01",
+            "2016-04-09"
+        ]
+    },
+    "Leon Osman": {
+        "Team": "Everton",
+        "Injury_dates": [
+            "2016-03-19"
+        ]
+    },
+    "Leighton Baines": {
+        "Team": "Everton",
+        "Injury_dates": [
+            "2016-04-13"
+        ]
+    },
+    "Tony Hibbert": {
+        "Team": "Everton",
+        "Injury_dates": [
+            "2016-04-30"
+        ]
+    },
+    "José Leonardo Ulloa": {
+        "Team": "Leicester City",
+        "Injury_dates": [
+            "2015-10-03"
+        ]
+    },
+    "Jamie Vardy": {
+        "Team": "Leicester City",
+        "Injury_dates": [
+            "2015-11-07",
+            "2015-12-14",
+            "2016-01-02",
+            "2016-05-07"
+        ]
+    },
+    "Ritchie De Laet": {
+        "Team": "Leicester City",
+        "Injury_dates": [
+            "2015-11-28",
+            "2016-01-13"
+        ]
+    },
+    "Jeffrey Schlupp": {
+        "Team": "Leicester City",
+        "Injury_dates": [
+            "2015-12-05"
+        ]
+    },
+    "Shinji Okazaki": {
+        "Team": "Leicester City",
+        "Injury_dates": [
+            "2016-01-16"
+        ]
+    },
+    "Adam David Lallana": {
+        "Team": "Liverpool",
+        "Injury_dates": [
+            "2015-08-17",
+            "2016-02-02"
+        ]
+    },
+    "Dejan Lovren": {
+        "Team": "Liverpool",
+        "Injury_dates": [
+            "2015-09-20",
+            "2015-12-06",
+            "2015-12-30",
+            "2016-02-02"
+        ]
+    },
+    "Roberto Firmino Barbosa de Oliveira": {
+        "Team": "Liverpool",
+        "Injury_dates": [
+            "2015-09-20"
+        ]
+    },
+    "Philippe Coutinho Correia": {
+        "Team": "Liverpool",
+        "Injury_dates": [
+            "2015-10-04",
+            "2015-12-30"
+        ]
+    },
+    "Jordan Rossiter": {
+        "Team": "Liverpool",
+        "Injury_dates": [
+            "2015-10-04",
+            "2015-12-06"
+        ]
+    },
+    "Daniel Andre Sturridge": {
+        "Team": "Liverpool",
+        "Injury_dates": [
+            "2015-10-04",
+            "2015-12-06"
+        ]
+    },
+    "Christian Benteke Liolo": {
+        "Team": "Liverpool",
+        "Injury_dates": [
+            "2015-10-25",
+            "2016-03-20"
+        ]
+    },
+    "Kolo Habib Touré": {
+        "Team": "Liverpool",
+        "Injury_dates": [
+            "2015-10-25",
+            "2015-12-30",
+            "2015-09-19",
+            "2015-09-26",
+            "2016-03-02",
+            "2016-03-20"
+        ]
+    },
+    "James Philip Milner": {
+        "Team": "Liverpool",
+        "Injury_dates": [
+            "2015-10-31",
+            "2015-12-13",
+            "2016-03-02"
+        ]
+    },
+    "Jordon Ibe": {
+        "Team": "Liverpool",
+        "Injury_dates": [
+            "2015-12-06",
+            "2015-12-20"
+        ]
+    },
+    "Simon Mignolet": {
+        "Team": "Liverpool",
+        "Injury_dates": [
+            "2015-12-13"
+        ]
+    },
+    "Martin Škrtel": {
+        "Team": "Liverpool",
+        "Injury_dates": [
+            "2015-12-13",
+            "2016-04-10"
+        ]
+    },
+    "Jordan Brian Henderson": {
+        "Team": "Liverpool",
+        "Injury_dates": [
+            "2015-12-26",
+            "2016-01-23",
+            "2016-04-02"
+        ]
+    },
+    "Divock Okoth Origi": {
+        "Team": "Liverpool",
+        "Injury_dates": [
+            "2015-12-20",
+            "2016-03-20",
+            "2016-04-17"
+        ]
+    },
+    "Mamadou Sakho": {
+        "Team": "Liverpool",
+        "Injury_dates": [
+            "2015-12-30",
+            "2015-11-22"
+        ]
+    },
+    "Connor Steven Randall": {
+        "Team": "Liverpool",
+        "Injury_dates": [
+            "2016-01-13"
+        ]
+    },
+    "Nathaniel Edwin Clyne": {
+        "Team": "Liverpool",
+        "Injury_dates": [
+            "2016-01-17",
+            "2016-04-17"
+        ]
+    },
+    "Joe Allen": {
+        "Team": "Liverpool",
+        "Injury_dates": [
+            "2016-02-02"
+        ]
+    },
+    "Bradley Shaun Smith": {
+        "Team": "Liverpool",
+        "Injury_dates": [
+            "2016-02-06"
+        ]
+    },
+    "Kevin Linford Stewart": {
+        "Team": "Liverpool",
+        "Injury_dates": [
+            "2016-02-14"
+        ]
+    },
+    "Alberto Moreno Pérez": {
+        "Team": "Liverpool",
+        "Injury_dates": [
+            "2016-03-06"
+        ]
+    },
+    "Emre Can": {
+        "Team": "Liverpool",
+        "Injury_dates": [
+            "2016-04-10"
+        ]
+    },
+    "Pablo Javier Zabaleta Girod": {
+        "Team": "Manchester City",
+        "Injury_dates": [
+            "2015-08-16",
+            "2015-10-25",
+            "2016-05-01"
+        ]
+    },
+    "Wilfried Guemiand Bony": {
+        "Team": "Manchester City",
+        "Injury_dates": [
+            "2015-08-23",
+            "2015-09-19",
+            "2015-12-29"
+        ]
+    },
+    "Vincent Kompany": {
+        "Team": "Manchester City",
+        "Injury_dates": [
+            "2015-09-12",
+            "2015-11-08",
+            "2015-12-21",
+            "2016-05-01"
+        ]
+    },
+    "David Josué Jiménez Silva": {
+        "Team": "Manchester City",
+        "Injury_dates": [
+            "2015-09-12",
+            "2015-10-03",
+            "2016-02-02",
+            "2016-04-09",
+            "2016-04-19"
+        ]
+    },
+    "Kelechi Promise Iheanacho": {
+        "Team": "Manchester City",
+        "Injury_dates": [
+            "2015-09-19"
+        ]
+    },
+    "Eliaquim Mangala": {
+        "Team": "Manchester City",
+        "Injury_dates": [
+            "2015-09-12",
+            "2015-11-21",
+            "2016-01-02"
+        ]
+    },
+    "Samir Nasri": {
+        "Team": "Manchester City",
+        "Injury_dates": [
+            "2015-09-26",
+            "2015-10-17",
+            "2016-04-09",
+            "2016-05-01"
+        ]
+    },
+    "Sergio Leonel Agüero del Castillo": {
+        "Team": "Manchester City",
+        "Injury_dates": [
+            "2015-10-03",
+            "2015-11-21"
+        ]
+    },
+    "Fabian Delph": {
+        "Team": "Manchester City",
+        "Injury_dates": [
+            "2015-11-08",
+            "2015-12-26",
+            "2016-02-02"
+        ]
+    },
+    "Joe Hart": {
+        "Team": "Manchester City",
+        "Injury_dates": [
+            "2015-11-21"
+        ]
+    },
+    "Patrick Roberts": {
+        "Team": "Manchester City",
+        "Injury_dates": [
+            "2015-11-21"
+        ]
+    },
+    "Fernando Francisco Reges": {
+        "Team": "Manchester City",
+        "Injury_dates": [
+            "2015-11-28",
+            "2015-12-05"
+        ]
+    },
+    "Jesús Navas González": {
+        "Team": "Manchester City",
+        "Injury_dates": [
+            "2015-11-28"
+        ]
+    },
+    "Martín Gastón Demichelis": {
+        "Team": "Manchester City",
+        "Injury_dates": [
+            "2015-12-05"
+        ]
+    },
+    "Fernando Luiz Rosa": {
+        "Team": "Manchester City",
+        "Injury_dates": [
+            "2016-01-02"
+        ]
+    },
+    "Aleksandar Kolarov": {
+        "Team": "Manchester City",
+        "Injury_dates": [
+            "2016-01-13",
+            "2016-05-01"
+        ]
+    },
+    "Kevin De Bruyne": {
+        "Team": "Manchester City",
+        "Injury_dates": [
+            "2016-01-23"
+        ]
+    },
+    "Bacary Sagna": {
+        "Team": "Manchester City",
+        "Injury_dates": [
+            "2016-02-02",
+            "2016-04-16"
+        ]
+    },
+    "Gaël Clichy": {
+        "Team": "Manchester City",
+        "Injury_dates": [
+            "2016-04-09"
+        ]
+    },
+    "Michael Carrick": {
+        "Team": "Manchester United",
+        "Injury_dates": [
+            "2015-08-30",
+            "2015-09-20",
+            "2015-10-04",
+            "2015-11-07",
+            "2015-12-28"
+        ]
+    },
+    "Luke Shaw": {
+        "Team": "Manchester United",
+        "Injury_dates": [
+            "2015-09-12"
+        ]
+    },
+    "Ander Herrera Agüera": {
+        "Team": "Manchester United",
+        "Injury_dates": [
+            "2015-09-20",
+            "2016-04-10"
+        ]
+    },
+    "Paddy McNair": {
+        "Team": "Manchester United",
+        "Injury_dates": [
+            "2015-09-20"
+        ]
+    },
+    "Luis Antonio Valencia Mosquera": {
+        "Team": "Manchester United",
+        "Injury_dates": [
+            "2015-09-26",
+            "2015-10-25",
+            "2015-10-31",
+            "2015-12-26",
+            "2016-02-06"
+        ]
+    },
+    "Wayne Mark Rooney": {
+        "Team": "Manchester United",
+        "Injury_dates": [
+            "2015-10-04",
+            "2015-11-21",
+            "2016-02-13"
+        ]
+    },
+    "Bastian Schweinsteiger": {
+        "Team": "Manchester United",
+        "Injury_dates": [
+            "2015-10-04",
+            "2016-03-20"
+        ]
+    },
+    "Ashley Young": {
+        "Team": "Manchester United",
+        "Injury_dates": [
+            "2015-10-04",
+            "2015-12-12",
+            "2015-12-26",
+            "2016-01-12",
+            "2016-01-17"
+        ]
+    },
+    "Memphis Depay": {
+        "Team": "Manchester United",
+        "Injury_dates": [
+            "2015-10-25"
+        ]
+    },
+    "Marouane Fellaini-Bakkioui": {
+        "Team": "Manchester United",
+        "Injury_dates": [
+            "2015-10-31",
+            "2016-02-02"
+        ]
+    },
+    "Chris Smalling": {
+        "Team": "Manchester United",
+        "Injury_dates": [
+            "2015-11-07",
+            "2015-12-05"
+        ]
+    },
+    "Jesse Lingard": {
+        "Team": "Manchester United",
+        "Injury_dates": [
+            "2015-11-21",
+            "2015-12-05"
+        ]
+    },
+    "Faustino Marcos Alberto Rojo": {
+        "Team": "Manchester United",
+        "Injury_dates": [
+            "2015-11-21"
+        ]
+    },
+    "Matteo Darmian": {
+        "Team": "Manchester United",
+        "Injury_dates": [
+            "2015-12-05",
+            "2016-01-17",
+            "2016-02-07",
+            "2016-05-01"
+        ]
+    },
+    "Morgan Schneiderlin": {
+        "Team": "Manchester United",
+        "Injury_dates": [
+            "2015-11-28"
+        ]
+    },
+    "Billy Jones": {
+        "Team": "Manchester United",
+        "Injury_dates": [
+            "2015-12-26",
+            "2016-02-02",
+            "2016-04-24"
+        ]
+    },
+    "Nick Powell": {
+        "Team": "Manchester United",
+        "Injury_dates": [
+            "2015-12-28"
+        ]
+    },
+    "Adnan Januzaj": {
+        "Team": "Manchester United",
+        "Injury_dates": [
+            "2016-01-23",
+            "2016-02-28"
+        ]
+    },
+    "Cameron Borthwick-Jackson": {
+        "Team": "Manchester United",
+        "Injury_dates": [
+            "2016-02-13"
+        ]
+    },
+    "David de Gea Quintana": {
+        "Team": "Manchester United",
+        "Injury_dates": [
+            "2016-02-13"
+        ]
+    },
+    "Donald Love": {
+        "Team": "Manchester United",
+        "Injury_dates": [
+            "2016-02-13"
+        ]
+    },
+    "Anthony Martial": {
+        "Team": "Manchester United",
+        "Injury_dates": [
+            "2016-05-01"
+        ]
+    },
+    "Moussa Sissoko": {
+        "Team": "Newcastle United",
+        "Injury_dates": [
+            "2015-08-09"
+        ]
+    },
+    "Steven Taylor": {
+        "Team": "Newcastle United",
+        "Injury_dates": [
+            "2015-08-29",
+            "2016-04-02",
+            "2016-03-12",
+            "2016-05-01"
+        ]
+    },
+    "Cheik Ismaël Tioté": {
+        "Team": "Newcastle United",
+        "Injury_dates": [
+            "2015-08-29"
+        ]
+    },
+    "Karl Darlow": {
+        "Team": "Newcastle United",
+        "Injury_dates": [
+            "2015-09-14"
+        ]
+    },
+    "Rolando Aarons": {
+        "Team": "Newcastle United",
+        "Injury_dates": [
+            "2015-09-19",
+            "2015-10-31"
+        ]
+    },
+    "Papiss Demba Cissé": {
+        "Team": "Newcastle United",
+        "Injury_dates": [
+            "2015-09-14",
+            "2015-12-13"
+        ]
+    },
+    "Massadio Haïdara": {
+        "Team": "Newcastle United",
+        "Injury_dates": [
+            "2015-09-14",
+            "2015-10-31"
+        ]
+    },
+    "Jack Colback": {
+        "Team": "Newcastle United",
+        "Injury_dates": [
+            "2015-09-19",
+            "2015-10-25",
+            "2015-12-26",
+            "2016-01-12"
+        ]
+    },
+    "Gabriel Antoine Obertan": {
+        "Team": "Newcastle United",
+        "Injury_dates": [
+            "2015-09-26"
+        ]
+    },
+    "Daryl Janmaat": {
+        "Team": "Newcastle United",
+        "Injury_dates": [
+            "2015-10-03",
+            "2016-02-03",
+            "2016-04-02",
+            "2016-03-14"
+        ]
+    },
+    "Kevin Mbabu": {
+        "Team": "Newcastle United",
+        "Injury_dates": [
+            "2015-09-26"
+        ]
+    },
+    "Rob Elliot": {
+        "Team": "Newcastle United",
+        "Injury_dates": [
+            "2015-11-07"
+        ]
+    },
+    "Jamaal Lascelles": {
+        "Team": "Newcastle United",
+        "Injury_dates": [
+            "2015-11-28"
+        ]
+    },
+    "Mike Williamson": {
+        "Team": "Newcastle United",
+        "Injury_dates": [
+            "2015-11-28"
+        ]
+    },
+    "Vurnon Anita": {
+        "Team": "Newcastle United",
+        "Injury_dates": [
+            "2015-12-26"
+        ]
+    },
+    "Siem Stefan de Jong": {
+        "Team": "Newcastle United",
+        "Injury_dates": [
+            "2016-01-12"
+        ]
+    },
+    "Paul Dummett": {
+        "Team": "Newcastle United",
+        "Injury_dates": [
+            "2016-01-12",
+            "2016-03-02"
+        ]
+    },
+    "Ivan Toney": {
+        "Team": "Newcastle United",
+        "Injury_dates": [
+            "2016-01-16"
+        ]
+    },
+    "Fabricio Coloccini": {
+        "Team": "Newcastle United",
+        "Injury_dates": [
+            "2016-02-13"
+        ]
+    },
+    "Aleksandar Mitrović": {
+        "Team": "Newcastle United",
+        "Injury_dates": [
+            "2016-02-06"
+        ]
+    },
+    "Yoan Gouffran": {
+        "Team": "Newcastle United",
+        "Injury_dates": [
+            "2016-03-02"
+        ]
+    },
+    "Gary Hooper": {
+        "Team": "Norwich City",
+        "Injury_dates": [
+            "2015-08-30"
+        ]
+    },
+    "Lewis Grabban": {
+        "Team": "Norwich City",
+        "Injury_dates": [
+            "2015-09-20",
+            "2016-02-06"
+        ]
+    },
+    "Dieumerci Mbokani Bezua": {
+        "Team": "Norwich City",
+        "Injury_dates": [
+            "2015-10-18"
+        ]
+    },
+    "Nathan Redmond": {
+        "Team": "Norwich City",
+        "Injury_dates": [
+            "2015-10-31",
+            "2016-03-05"
+        ]
+    },
+    "Andre Wisdom": {
+        "Team": "Norwich City",
+        "Injury_dates": [
+            "2015-12-05",
+            "2016-01-23",
+            "2016-04-16"
+        ]
+    },
+    "Alexander Banor Tettey": {
+        "Team": "Norwich City",
+        "Injury_dates": [
+            "2016-01-16",
+            "2016-02-27"
+        ]
+    },
+    "Graham Dorrans": {
+        "Team": "Norwich City",
+        "Injury_dates": [
+            "2016-01-23"
+        ]
+    },
+    "Sébastien Aymar Bassong Nguena": {
+        "Team": "Norwich City",
+        "Injury_dates": [
+            "2016-02-13"
+        ]
+    },
+    "Wes Hoolahan": {
+        "Team": "Norwich City",
+        "Injury_dates": [
+            "2016-02-06"
+        ]
+    },
+    "Ryan Bennett": {
+        "Team": "Norwich City",
+        "Injury_dates": [
+            "2016-03-12",
+            "2016-04-16"
+        ]
+    },
+    "Robert Brady": {
+        "Team": "Norwich City",
+        "Injury_dates": [
+            "2016-02-27"
+        ]
+    },
+    "Timm Klose": {
+        "Team": "Norwich City",
+        "Injury_dates": [
+            "2016-04-02"
+        ]
+    },
+    "Russell Martin": {
+        "Team": "Norwich City",
+        "Injury_dates": [
+            "2016-03-19"
+        ]
+    },
+    "Jonathan Howson": {
+        "Team": "Norwich City",
+        "Injury_dates": [
+            "2016-04-30"
+        ]
+    },
+    "Steven Caulker": {
+        "Team": "Southampton",
+        "Injury_dates": [
+            "2015-08-09"
+        ]
+    },
+    "Maarten Stekelenburg": {
+        "Team": "Southampton",
+        "Injury_dates": [
+            "2015-10-03",
+            "2015-12-05"
+        ]
+    },
+    "Jay Rodriguez": {
+        "Team": "Southampton",
+        "Injury_dates": [
+            "2015-10-17"
+        ]
+    },
+    "Virgil van Dijk": {
+        "Team": "Southampton",
+        "Injury_dates": [
+            "2015-11-07"
+        ]
+    },
+    "Victor Wanyama": {
+        "Team": "Southampton",
+        "Injury_dates": [
+            "2015-11-28",
+            "2016-04-09"
+        ]
+    },
+    "Cédric Ricardo Alves Soares": {
+        "Team": "Southampton",
+        "Injury_dates": [
+            "2015-12-19"
+        ]
+    },
+    "Graziano Pellè": {
+        "Team": "Southampton",
+        "Injury_dates": [
+            "2015-12-19",
+            "2016-01-13"
+        ]
+    },
+    "Keinan Davis": {
+        "Team": "Southampton",
+        "Injury_dates": [
+            "2016-01-13"
+        ]
+    },
+    "Matt Targett": {
+        "Team": "Southampton",
+        "Injury_dates": [
+            "2016-02-02"
+        ]
+    },
+    "Charlie Austin": {
+        "Team": "Southampton",
+        "Injury_dates": [
+            "2016-02-27",
+            "2016-04-03"
+        ]
+    },
+    "Shane Long": {
+        "Team": "Southampton",
+        "Injury_dates": [
+            "2016-02-27"
+        ]
+    },
+    "Ryan Bertrand": {
+        "Team": "Southampton",
+        "Injury_dates": [
+            "2016-03-20"
+        ]
+    },
+    "Jordy Clasie": {
+        "Team": "Southampton",
+        "Injury_dates": [
+            "2016-05-01"
+        ]
+    },
+    "Sadio Mané": {
+        "Team": "Southampton",
+        "Injury_dates": [
+            "2016-05-01"
+        ]
+    },
+    "Osazemwinde Peter Odemwingie": {
+        "Team": "Stoke City",
+        "Injury_dates": [
+            "2015-08-09",
+            "2015-10-24"
+        ]
+    },
+    "Adam Johnson": {
+        "Team": "Stoke City",
+        "Injury_dates": [
+            "2015-08-22",
+            "2015-10-19",
+            "2016-01-23",
+            "2016-02-06",
+            "2015-08-08"
+        ]
+    },
+    "Xherdan Shaqiri": {
+        "Team": "Stoke City",
+        "Injury_dates": [
+            "2015-09-19",
+            "2015-11-28",
+            "2016-01-02",
+            "2016-03-05"
+        ]
+    },
+    "Mame Biram Diouf": {
+        "Team": "Stoke City",
+        "Injury_dates": [
+            "2015-09-26"
+        ]
+    },
+    "Shay Given": {
+        "Team": "Stoke City",
+        "Injury_dates": [
+            "2015-10-03"
+        ]
+    },
+    "Phil Bardsley": {
+        "Team": "Stoke City",
+        "Injury_dates": [
+            "2015-10-24",
+            "2015-12-12",
+            "2016-02-02",
+            "2016-02-27"
+        ]
+    },
+    "Bojan Krkíc Pérez": {
+        "Team": "Stoke City",
+        "Injury_dates": [
+            "2015-10-24"
+        ]
+    },
+    "Geoff Cameron": {
+        "Team": "Stoke City",
+        "Injury_dates": [
+            "2015-10-19",
+            "2015-12-05",
+            "2016-01-02",
+            "2016-03-02"
+        ]
+    },
+    "José Luis Sanmartín Mato": {
+        "Team": "Stoke City",
+        "Injury_dates": [
+            "2015-10-19"
+        ]
+    },
+    "Marc Muniesa Martínez": {
+        "Team": "Stoke City",
+        "Injury_dates": [
+            "2015-10-24",
+            "2016-02-06"
+        ]
+    },
+    "Jonathan Walters": {
+        "Team": "Stoke City",
+        "Injury_dates": [
+            "2015-10-24",
+            "2016-01-23",
+            "2016-02-02",
+            "2016-03-19"
+        ]
+    },
+    "Stephen Ireland": {
+        "Team": "Stoke City",
+        "Injury_dates": [
+            "2015-11-21",
+            "2016-05-07"
+        ]
+    },
+    "Peter Crouch": {
+        "Team": "Stoke City",
+        "Injury_dates": [
+            "2015-11-28"
+        ]
+    },
+    "Marko Arnautović": {
+        "Team": "Stoke City",
+        "Injury_dates": [
+            "2016-01-13",
+            "2016-01-23",
+            "2016-02-02"
+        ]
+    },
+    "Charlie Adam": {
+        "Team": "Stoke City",
+        "Injury_dates": [
+            "2016-01-23"
+        ]
+    },
+    "Ryan Shawcross": {
+        "Team": "Stoke City",
+        "Injury_dates": [
+            "2016-01-17",
+            "2016-03-12"
+        ]
+    },
+    "Erik Pieters": {
+        "Team": "Stoke City",
+        "Injury_dates": [
+            "2016-03-05",
+            "2016-03-02"
+        ]
+    },
+    "Ibrahim Afellay": {
+        "Team": "Stoke City",
+        "Injury_dates": [
+            "2016-04-18"
+        ]
+    },
+    "Younes Kaboul": {
+        "Team": "Sunderland",
+        "Injury_dates": [
+            "2015-08-15",
+            "2015-09-26",
+            "2015-10-25",
+            "2015-12-19"
+        ]
+    },
+    "Adam Matthews": {
+        "Team": "Sunderland",
+        "Injury_dates": [
+            "2015-08-22",
+            "2015-12-12"
+        ]
+    },
+    "Emanuele Giaccherini": {
+        "Team": "Sunderland",
+        "Injury_dates": [
+            "2015-09-13"
+        ]
+    },
+    "Jack Rodwell": {
+        "Team": "Sunderland",
+        "Injury_dates": [
+            "2015-09-19",
+            "2015-10-03",
+            "2015-11-01",
+            "2015-12-26"
+        ]
+    },
+    "Fabio Borini": {
+        "Team": "Sunderland",
+        "Injury_dates": [
+            "2015-10-17",
+            "2015-11-01",
+            "2016-02-02"
+        ]
+    },
+    "Lee Cattermole": {
+        "Team": "Sunderland",
+        "Injury_dates": [
+            "2015-11-23",
+            "2016-02-27"
+        ]
+    },
+    "Jermain Defoe": {
+        "Team": "Sunderland",
+        "Injury_dates": [
+            "2015-11-23"
+        ]
+    },
+    "Sebastian Larsson": {
+        "Team": "Sunderland",
+        "Injury_dates": [
+            "2015-11-23"
+        ]
+    },
+    "Steven Fletcher": {
+        "Team": "Sunderland",
+        "Injury_dates": [
+            "2015-11-28",
+            "2016-01-13",
+            "2016-01-23",
+            "2016-05-07"
+        ]
+    },
+    "Sebastián Coates Nión": {
+        "Team": "Sunderland",
+        "Injury_dates": [
+            "2015-12-12"
+        ]
+    },
+    "John O''Shea": {
+        "Team": "Sunderland",
+        "Injury_dates": [
+            "2015-12-26",
+            "2016-02-27"
+        ]
+    },
+    "Jan Kirchhoff": {
+        "Team": "Sunderland",
+        "Injury_dates": [
+            "2016-01-16",
+            "2016-02-06",
+            "2016-02-27"
+        ]
+    },
+    "Duncan Watmore": {
+        "Team": "Sunderland",
+        "Injury_dates": [
+            "2016-02-02"
+        ]
+    },
+    "Wahbi Khazri": {
+        "Team": "Sunderland",
+        "Injury_dates": [
+            "2016-03-01"
+        ]
+    },
+    "Arouna Koné": {
+        "Team": "Sunderland",
+        "Injury_dates": [
+            "2016-03-20"
+        ]
+    },
+    "Jefferson Antonio Montero Vite": {
+        "Team": "Swansea City",
+        "Injury_dates": [
+            "2015-08-22",
+            "2016-03-02",
+            "2016-04-24"
+        ]
+    },
+    "Nathan Dyer": {
+        "Team": "Swansea City",
+        "Injury_dates": [
+            "2015-09-12"
+        ]
+    },
+    "Jordan Ayew": {
+        "Team": "Swansea City",
+        "Injury_dates": [
+            "2015-10-04",
+            "2016-03-02"
+        ]
+    },
+    "Wayne Routledge": {
+        "Team": "Swansea City",
+        "Injury_dates": [
+            "2015-10-04",
+            "2015-12-05",
+            "2015-12-26"
+        ]
+    },
+    "Franck Tabanou": {
+        "Team": "Swansea City",
+        "Injury_dates": [
+            "2015-10-04"
+        ]
+    },
+    "Jonjo Shelvey": {
+        "Team": "Swansea City",
+        "Injury_dates": [
+            "2015-12-05"
+        ]
+    },
+    "Federico Fernández": {
+        "Team": "Swansea City",
+        "Injury_dates": [
+            "2015-12-26"
+        ]
+    },
+    "Modou Barrow": {
+        "Team": "Swansea City",
+        "Injury_dates": [
+            "2016-03-05"
+        ]
+    },
+    "Sung-Yeung Ki": {
+        "Team": "Swansea City",
+        "Injury_dates": [
+            "2016-02-28"
+        ]
+    },
+    "Alberto Paloschi": {
+        "Team": "Swansea City",
+        "Injury_dates": [
+            "2016-04-24"
+        ]
+    },
+    "Gylfi Þór Sigurðsson": {
+        "Team": "Swansea City",
+        "Injury_dates": [
+            "2016-05-01"
+        ]
+    },
+    "Ashley Williams": {
+        "Team": "Swansea City",
+        "Injury_dates": [
+            "2016-05-01"
+        ]
+    },
+    "Łukasz Fabiański": {
+        "Team": "Swansea City",
+        "Injury_dates": [
+            "2016-05-01"
+        ]
+    },
+    "Christian Dannemann Eriksen": {
+        "Team": "Tottenham Hotspur",
+        "Injury_dates": [
+            "2015-08-15"
+        ]
+    },
+    "Clinton Mua N''Jie": {
+        "Team": "Tottenham Hotspur",
+        "Injury_dates": [
+            "2015-08-08",
+            "2015-12-05"
+        ]
+    },
+    "Nabil Bentaleb": {
+        "Team": "Tottenham Hotspur",
+        "Injury_dates": [
+            "2015-08-29",
+            "2016-03-05"
+        ]
+    },
+    "Mousa Sidi Yaya Dembélé": {
+        "Team": "Tottenham Hotspur",
+        "Injury_dates": [
+            "2015-08-22",
+            "2015-11-29",
+            "2015-12-26"
+        ]
+    },
+    "Alex Pritchard": {
+        "Team": "Tottenham Hotspur",
+        "Injury_dates": [
+            "2015-08-29",
+            "2016-04-02"
+        ]
+    },
+    "Federico Julián Fazio": {
+        "Team": "Tottenham Hotspur",
+        "Injury_dates": [
+            "2015-09-26"
+        ]
+    },
+    "HeungMin Son": {
+        "Team": "Tottenham Hotspur",
+        "Injury_dates": [
+            "2015-09-20"
+        ]
+    },
+    "Jack Rose": {
+        "Team": "Tottenham Hotspur",
+        "Injury_dates": [
+            "2015-09-26",
+            "2016-02-28"
+        ]
+    },
+    "Andy Carroll": {
+        "Team": "Tottenham Hotspur",
+        "Injury_dates": [
+            "2015-10-04",
+            "2016-02-14",
+            "2015-09-26",
+            "2015-12-12",
+            "2016-02-13"
+        ]
+    },
+    "Niall Mason": {
+        "Team": "Tottenham Hotspur",
+        "Injury_dates": [
+            "2015-11-22"
+        ]
+    },
+    "Jan Vertonghen": {
+        "Team": "Tottenham Hotspur",
+        "Injury_dates": [
+            "2016-01-16"
+        ]
+    },
+    "Erik Lamela": {
+        "Team": "Tottenham Hotspur",
+        "Injury_dates": [
+            "2016-02-14"
+        ]
+    },
+    "Hugo Lloris": {
+        "Team": "Tottenham Hotspur",
+        "Injury_dates": [
+            "2016-02-14"
+        ]
+    },
+    "Eric Dier": {
+        "Team": "Tottenham Hotspur",
+        "Injury_dates": [
+            "2016-04-18"
+        ]
+    },
+    "Tommie Hoban": {
+        "Team": "Watford",
+        "Injury_dates": [
+            "2015-09-19"
+        ]
+    },
+    "Nordin Amrabat": {
+        "Team": "Watford",
+        "Injury_dates": [
+            "2015-09-27"
+        ]
+    },
+    "José Manuel Jurado Marín": {
+        "Team": "Watford",
+        "Injury_dates": [
+            "2015-09-27",
+            "2016-02-06"
+        ]
+    },
+    "Ikechi Anya": {
+        "Team": "Watford",
+        "Injury_dates": [
+            "2015-09-27"
+        ]
+    },
+    "Valon Behrami": {
+        "Team": "Watford",
+        "Injury_dates": [
+            "2015-10-03",
+            "2016-04-20"
+        ]
+    },
+    "Allan Romeo Nyom": {
+        "Team": "Watford",
+        "Injury_dates": [
+            "2015-09-27"
+        ]
+    },
+    "Rene Gilmartin": {
+        "Team": "Watford",
+        "Injury_dates": [
+            "2015-10-17"
+        ]
+    },
+    "Adlène Guédioura": {
+        "Team": "Watford",
+        "Injury_dates": [
+            "2015-11-28"
+        ]
+    },
+    "Heurelho da Silva Gomes": {
+        "Team": "Watford",
+        "Injury_dates": [
+            "2015-11-21"
+        ]
+    },
+    "José Holebas": {
+        "Team": "Watford",
+        "Injury_dates": [
+            "2016-01-13"
+        ]
+    },
+    "Miguel Ángel Britos Cabrera": {
+        "Team": "Watford",
+        "Injury_dates": [
+            "2016-02-03",
+            "2016-02-27"
+        ]
+    },
+    "Etienne Capoue": {
+        "Team": "Watford",
+        "Injury_dates": [
+            "2016-04-02"
+        ]
+    },
+    "James Grant Chester": {
+        "Team": "West Bromwich Albion",
+        "Injury_dates": [
+            "2015-08-10"
+        ]
+    },
+    "José Salomón Rondón Giménez": {
+        "Team": "West Bromwich Albion",
+        "Injury_dates": [
+            "2015-08-10",
+            "2016-04-02"
+        ]
+    },
+    "Saido Berahino": {
+        "Team": "West Bromwich Albion",
+        "Injury_dates": [
+            "2015-08-10",
+            "2016-01-13",
+            "2016-01-23",
+            "2016-04-16"
+        ]
+    },
+    "Gareth McAuley": {
+        "Team": "West Bromwich Albion",
+        "Injury_dates": [
+            "2015-09-19",
+            "2016-02-06",
+            "2016-02-06"
+        ]
+    },
+    "George Evans": {
+        "Team": "West Bromwich Albion",
+        "Injury_dates": [
+            "2015-09-28",
+            "2016-05-07"
+        ]
+    },
+    "James Morrison": {
+        "Team": "West Bromwich Albion",
+        "Injury_dates": [
+            "2015-09-28"
+        ]
+    },
+    "Joleon Lescott": {
+        "Team": "West Bromwich Albion",
+        "Injury_dates": [
+            "2015-10-24"
+        ]
+    },
+    "Chris Brunt": {
+        "Team": "West Bromwich Albion",
+        "Injury_dates": [
+            "2015-10-31",
+            "2016-01-13"
+        ]
+    },
+    "Stéphane Sessègnon": {
+        "Team": "West Bromwich Albion",
+        "Injury_dates": [
+            "2015-11-29",
+            "2016-04-30"
+        ]
+    },
+    "Victor Chinedu Anichebe": {
+        "Team": "West Bromwich Albion",
+        "Injury_dates": [
+            "2015-12-26"
+        ]
+    },
+    "Jonas Olsson": {
+        "Team": "West Bromwich Albion",
+        "Injury_dates": [
+            "2015-12-26",
+            "2016-01-13",
+            "2016-01-13",
+            "2016-02-06"
+        ]
+    },
+    "Ben Foster": {
+        "Team": "West Bromwich Albion",
+        "Injury_dates": [
+            "2016-01-23",
+            "2016-04-16"
+        ]
+    },
+    "Callum McManaman": {
+        "Team": "West Bromwich Albion",
+        "Injury_dates": [
+            "2016-01-23"
+        ]
+    },
+    "Craig Dawson": {
+        "Team": "West Bromwich Albion",
+        "Injury_dates": [
+            "2016-02-06",
+            "2016-02-13"
+        ]
+    },
+    "Reece Oxford": {
+        "Team": "West Ham United",
+        "Injury_dates": [
+            "2015-08-09",
+            "2015-11-22"
+        ]
+    },
+    "Mauro Matías Zárate": {
+        "Team": "West Ham United",
+        "Injury_dates": [
+            "2015-08-09"
+        ]
+    },
+    "Dimitri Payet": {
+        "Team": "West Ham United",
+        "Injury_dates": [
+            "2015-08-22",
+            "2015-10-31"
+        ]
+    },
+    "Winston Reid": {
+        "Team": "West Ham United",
+        "Injury_dates": [
+            "2015-09-26",
+            "2015-09-26",
+            "2015-12-05",
+            "2016-02-02"
+        ]
+    },
+    "Aaron Cresswell": {
+        "Team": "West Ham United",
+        "Injury_dates": [
+            "2015-10-03"
+        ]
+    },
+    "Pedro Mba Obiang Avomo": {
+        "Team": "West Ham United",
+        "Injury_dates": [
+            "2015-10-24"
+        ]
+    },
+    "Matt Jarvis": {
+        "Team": "West Ham United",
+        "Injury_dates": [
+            "2015-10-24"
+        ]
+    },
+    "Manuel Lanzini": {
+        "Team": "West Ham United",
+        "Injury_dates": [
+            "2015-11-22",
+            "2015-12-26"
+        ]
+    },
+    "Nikica Jelavić": {
+        "Team": "West Ham United",
+        "Injury_dates": [
+            "2015-12-20"
+        ]
+    },
+    "Cheikhou Kouyaté": {
+        "Team": "West Ham United",
+        "Injury_dates": [
+            "2015-12-28",
+            "2016-02-02"
+        ]
+    },
+    "James Tomkins": {
+        "Team": "West Ham United",
+        "Injury_dates": [
+            "2016-01-12",
+            "2016-02-02"
+        ]
+    },
+    "Carl Jenkinson": {
+        "Team": "West Ham United",
+        "Injury_dates": [
+            "2016-01-16"
+        ]
+    },
+    "Mark Noble": {
+        "Team": "West Ham United",
+        "Injury_dates": [
+            "2016-01-23"
+        ]
+    },
+    "O'Brien": {
+        "Team": "West Ham United",
+        "Injury_dates": [
+            "2016-02-02"
+        ]
+    },
+    "James Collins": {
+        "Team": "West Ham United",
+        "Injury_dates": [
+            "2016-02-27"
+        ]
+    },
+    "Alexandre Dimitri Song-Billong": {
+        "Team": "West Ham United",
+        "Injury_dates": [
+            "2016-04-02"
+        ]
+    },
+    "Adrián San Miguel del Castillo": {
+        "Team": "West Ham United",
+        "Injury_dates": [
+            "2016-04-30"
+        ]
+    }
+}
