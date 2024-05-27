@@ -1,5 +1,6 @@
 # Injury Prediction Using Premier League Data
-![Project Outline and Results](./Results/Injury Prediction Poster.png)
+![Project Outline and Results](./Results/Injury%20Prediction%20Poster.png)
+
 
 
 categories = ['Goalkeeper', 'Left Center Back', 'Left Back', 'Left Wing Back', 'Center Back','Right Back', 'Right Center Back', 'Right Wing Back', 'Left Midfield', 
